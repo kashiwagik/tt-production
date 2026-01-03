@@ -1,0 +1,49 @@
+name: Download and Commit SharePoint Excel
+
+on:
+  schedule:
+    - cron: '0 21-23 * * 1-5'  # JST 6〜8時（UTC 21〜23時） 1-5で(月)～(金)のみ
+    - cron: '0 0-12 * * 1-5'   # JST 9〜21時（UTC 0〜12時）
+  workflow_dispatch:      # 手動実行も可能
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 全履歴を取得
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests azure-identity python-dotenv
+    
+    - name: Download Excel file
+      env:
+        CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        TENANT_ID: ${{ secrets.TENANT_ID }}
+      run: |
+        python download_commit.py
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: Commit and push if changes
+      run: |
+        git add *.xlsx
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update Excel files - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        fi

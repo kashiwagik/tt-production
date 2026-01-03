@@ -1,0 +1,61 @@
+name: Test Secrets
+
+on:
+  workflow_dispatch:  # 手動実行のみ（テスト用）
+
+jobs:
+  test-secrets:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Test environment variables
+      env:
+        CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        TENANT_ID: ${{ secrets.TENANT_ID }}
+      run: |
+        echo "=== Environment Variables Test ==="
+        echo "CLIENT_ID exists: $(if [ -n "$CLIENT_ID" ]; then echo 'YES'; else echo 'NO'; fi)"
+        echo "CLIENT_SECRET exists: $(if [ -n "$CLIENT_SECRET" ]; then echo 'YES'; else echo 'NO'; fi)"
+        echo "TENANT_ID exists: $(if [ -n "$TENANT_ID" ]; then echo 'YES'; else echo 'NO'; fi)"
+        
+        echo "CLIENT_ID length: ${#CLIENT_ID}"
+        echo "CLIENT_SECRET length: ${#CLIENT_SECRET}"
+        echo "TENANT_ID length: ${#TENANT_ID}"
+        
+        # 最初の数文字だけ表示（セキュリティのため）
+        echo "CLIENT_ID starts with: ${CLIENT_ID:0:8}..."
+        echo "TENANT_ID starts with: ${TENANT_ID:0:8}..."
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Test Python environment variables
+      env:
+        CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        TENANT_ID: ${{ secrets.TENANT_ID }}
+      run: |
+        python -c "
+        import os
+        print('=== Python Environment Test ===')
+        client_id = os.environ.get('CLIENT_ID')
+        client_secret = os.environ.get('CLIENT_SECRET') 
+        tenant_id = os.environ.get('TENANT_ID')
+        
+        print(f'CLIENT_ID exists: {client_id is not None}')
+        print(f'CLIENT_SECRET exists: {client_secret is not None}')
+        print(f'TENANT_ID exists: {tenant_id is not None}')
+        
+        if client_id:
+            print(f'CLIENT_ID length: {len(client_id)}')
+            print(f'CLIENT_ID starts with: {client_id[:8]}...')
+        if tenant_id:
+            print(f'TENANT_ID length: {len(tenant_id)}')
+            print(f'TENANT_ID starts with: {tenant_id[:8]}...')
+        "

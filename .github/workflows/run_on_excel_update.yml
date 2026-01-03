@@ -1,0 +1,49 @@
+name: Run Python Script on Excel Update
+
+on:
+  push:
+    paths:
+      - 'schedule_spring.xlsx'
+      - 'schedule_fall.xlsx'
+  workflow_run:
+    workflows: ["Download and Commit SharePoint Excel"] 
+    types:
+      - completed
+    branches:
+      - main
+  workflow_dispatch:      # 手動実行も可能
+  
+permissions:
+  contents: write
+
+  
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: 依存関係インストール
+        run: |
+          pip install -r requirements.txt
+
+      - name: スクリプト実行
+        run: |
+          python excel2json.py
+
+      - name: 変更を Git にコミットしてプッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update by GitHub Actions" || echo "No changes to commit"
+          git push
