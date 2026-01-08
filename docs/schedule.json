@@ -25195,7 +25195,7 @@
     "grade": "1年生",
     "date": "2025-10-09",
     "period": 3,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": "101･102･103･成人実",
     "comment": ""
   },
@@ -26115,7 +26115,7 @@
     "grade": "1年生",
     "date": "2025-10-29",
     "period": 1,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
@@ -26411,7 +26411,7 @@
     "grade": "1年生",
     "date": "2025-11-11",
     "period": 1,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
@@ -26771,7 +26771,7 @@
     "grade": "1年生",
     "date": "2025-11-25",
     "period": 1,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
@@ -26931,7 +26931,7 @@
     "grade": "1年生",
     "date": "2025-12-01",
     "period": 3,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
@@ -27403,7 +27403,7 @@
     "grade": "1年生",
     "date": "2025-12-19",
     "period": 3,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
@@ -27531,7 +27531,7 @@
     "grade": "1年生",
     "date": "2025-12-26",
     "period": 4,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
@@ -27542,14 +27542,6 @@
     "courses": "",
     "room": "",
     "comment": "冬季休業"
-  },
-  {
-    "grade": "1年生",
-    "date": "2026-01-01",
-    "period": 1,
-    "courses": "あ",
-    "room": "",
-    "comment": ""
   },
   {
     "grade": "1年生",
@@ -27691,7 +27683,7 @@
     "grade": "1年生",
     "date": "2026-01-20",
     "period": 2,
-    "courses": "知の探究",
+    "courses": "知の探求",
     "room": 101,
     "comment": ""
   },
