@@ -27788,7 +27788,7 @@
     "date": "2026-01-26",
     "period": 1,
     "courses": "解剖体見学実習AB",
-    "room": "",
+    "room": 101,
     "comment": ""
   },
   {
@@ -27820,7 +27820,7 @@
     "date": "2026-01-27",
     "period": 1,
     "courses": "解剖体見学実習CD",
-    "room": "",
+    "room": 101,
     "comment": ""
   },
   {
