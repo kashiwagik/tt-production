@@ -12,7 +12,9 @@ dotenv.load_dotenv()
 # =========================================
 # 設定読み込み
 # =========================================
-with open(os.path.join(os.path.dirname(__file__), "config.yaml"), encoding="utf-8") as f:
+with open(
+    os.path.join(os.path.dirname(__file__), "config.yaml"), encoding="utf-8"
+) as f:
     CONFIG = yaml.safe_load(f)
 
 # =========================================
@@ -26,11 +28,6 @@ sp = CONFIG["sharepoint"]
 SITE_HOST = sp["site_host"]
 SITE_PATH = sp["site_path"]
 GRAPH_BASE = sp["graph_base"]
-
-FILES = [
-    (entry["remote_path"], entry["save_name"])
-    for entry in CONFIG["files"]
-]
 
 
 # =========================================
@@ -89,8 +86,10 @@ def main():
     token = get_token()
     site_id = get_site_id(token)
 
-    for file_path, save_name in FILES:
-        print(f"=== {save_name} ===")
+    for entry in CONFIG["files"]:
+        file_path = entry["remote_path"]
+        save_name = entry["save_name"]
+        print(f"=== {save_name} {file_path}===")
         download_file(site_id, file_path, save_name, token)
 
 

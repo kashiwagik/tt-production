@@ -6,8 +6,15 @@ dist/
 wheels/
 *.egg-info
 
+# vscode settings 
+.vscode/
+
+# claude settings
+.claude/
+.serena/
+
 # Virtual environments
 .venv
 
+# Environment variables
 .env
-
