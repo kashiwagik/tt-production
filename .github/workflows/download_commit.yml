@@ -19,11 +19,12 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
-    
+        python-version: '3.12'
+
     - name: Install dependencies
       run: |
-        pip install requests azure-identity python-dotenv
+        pip install requests azure-identity python-dotenv pyyaml
+        pip install -r requirements.txt
     
     - name: Download Excel file
       env:
@@ -38,12 +39,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
     
-    - name: Commit and push if changes
+    - name: Convert and commit if changes
       run: |
         git add *.xlsx
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
+          python excel2json.py
+          git add docs/ *.json
           git commit -m "Update Excel files - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
         fi

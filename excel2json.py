@@ -1,119 +1,213 @@
-from datetime import datetime, timezone, timedelta
+# excel2json.py
 import os
-import pandas as pd
+import re
 import json
-from collections import defaultdict
-# 以下のエラー抑制のための設定
-# FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. 
-pd.set_option('future.no_silent_downcasting', True)
+from datetime import datetime, timedelta, timezone
+import pandas as pd
+import warnings
+import yaml
 
-def get_schedule(file_path, sheet_name, grade):
+warnings.filterwarnings("ignore", category=UserWarning)
+pd.set_option("future.no_silent_downcasting", True)
+
+# =========================================
+# 設定読み込み
+# =========================================
+with open(os.path.join(os.path.dirname(__file__), "config.yaml"), encoding="utf-8") as f:
+    CONFIG = yaml.safe_load(f)
+
+# -------------------------
+# save_name から term / year を推定
+# -------------------------
+TERM_MAP = {"spring": "前期", "fall": "後期"}
+
+def parse_save_name(save_name):
+    """
+    'schedule_spring_2026.xlsx' -> ('前期', 2026)
+    'schedule_fall_2026.xlsx'   -> ('後期', 2026)
+    """
+    m = re.match(r"schedule_(spring|fall)_(\d{4})\.xlsx$", save_name)
+    if not m:
+        raise ValueError(f"save_name がパターンに一致しません: {save_name}")
+    season, year_str = m.groups()
+    return TERM_MAP[season], int(year_str)
+
+# -------------------------
+# 個別JSON出力パス
+# -------------------------
+def individual_json_path(save_name):
+    base = os.path.splitext(save_name)[0]
+    return f"docs/{base}.json"
+
+# -------------------------
+# display_period 読み込み
+# -------------------------
+def get_display_period():
+    dp = CONFIG["display_period"]
+    start = datetime.strptime(str(dp["start_date"]), "%Y-%m-%d")
+    end = datetime.strptime(str(dp["end_date"]), "%Y-%m-%d")
+    return start, end
+
+# -------------------------
+# Excel シート読み込み（1シート）
+# -------------------------
+def load_sheet(file_path, sheet_name, grade):
+    try:
+        df = pd.read_excel(file_path, sheet_name=sheet_name, engine="openpyxl")
+    except Exception as e:
+        print(f"⚠ シート読み込みエラー：{file_path} / {sheet_name} → {e}")
+        return []
+
+    df = df[pd.to_datetime(df.iloc[:, 1], format="%Y-%m-%d", errors="coerce").notnull()]
+    df = df.fillna("").infer_objects(copy=False)
+
     timetable = []
-    df = pd.read_excel(file_path, sheet_name=sheet_name, engine='openpyxl')
-    # B列に日付が入っていない行を削除
-    df = df[pd.to_datetime(df.iloc[:, 1], format='%Y-%m-%d', errors='coerce').notnull()]
-    df = df.fillna('').infer_objects(copy=False)
-    courses = defaultdict(int)
-    rooms = defaultdict(int)
-    for index, row in df.iterrows():
-        date = pd.to_datetime(row.iloc[1]).strftime('%Y-%m-%d')
-        comment = row.iloc[13]
+    for _, row in df.iterrows():
+        date = pd.to_datetime(row.iloc[1]).strftime("%Y-%m-%d")
+        comment = row.iloc[13] if len(row) > 13 else ""
+
         if comment:
-            course = {'grade': grade, 'date': date, 'period': 0, 'courses': '', 'room': '', 'comment': comment}
-            timetable.append(course)
-        for i in range(1, 6):
-            course_name = row.iloc[i*2+1]
-            room = row.iloc[i*2+2]
-            if not course_name:
+            timetable.append({
+                "grade": grade,
+                "date": date,
+                "period": 0,
+                "courses": "",
+                "room": "",
+                "comment": comment
+            })
+
+        for p in range(1, 6):
+            col_c = p * 2 + 1
+            col_r = p * 2 + 2
+            if col_r >= len(row):
                 continue
-            course = {'grade': grade, 'date': date, 'period': i, 'courses': course_name, 'room': room, 'comment': ''}
-            courses[course_name] += 1
-            rooms[room] += 1
-            timetable.append(course)
-    return timetable, courses, rooms
-
-def save_to_json(timetable, json_path='schedule.json'):
-    """
-    時間割データをJSON形式で保存する関数
-    
-    Args:
-        timetable (list): 時間割データのリスト
-        json_path (str): 保存するJSONファイルのパス
-    """
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(timetable, f, ensure_ascii=False, indent=2)
-    print(f'{json_path} に保存しました。')
-
-def add_schedule_to_josan(timetable):
-    """
-    助産前期の時間割を4年生の時間割に追加する関数
-    """
-    forth_grade = {}
-    josan_course = {}
-    # それぞれの時間割を辞書に変換
-    for course in timetable:
-        if course['grade'] == '4年生':
-            forth_grade[course['date'] + str(course['period'])] = course
-        elif course['grade'] == '4年助産':
-            josan_course[course['date'] + str(course['period'])] = course
-    # 4年生の時間割を助産前期の時間割に追加
-    for key, course in forth_grade.items():
-        # すでに助産前期の時間割が存在する場合はスキップ
-        if key in josan_course:
-            continue
-        # 卒業研究は除外
-        #if course['courses'].startswith('卒業研究'):
-        #    continue
-        new_course = course.copy()
-        new_course['grade'] = '4年助産'
-        timetable.append(new_course)
+            cname = row.iloc[col_c]
+            room = row.iloc[col_r]
+            if not cname:
+                continue
+            timetable.append({
+                "grade": grade,
+                "date": date,
+                "period": p,
+                "courses": cname,
+                "room": room,
+                "comment": ""
+            })
     return timetable
 
-def make_info_json(file_path, info_json_path):
-    file_stat = os.stat(file_path)
-    # 日本時間（UTC+9）のタイムゾーンを定義
+# -------------------------
+# 指定ファイル内のシート（全部）ロード
+# -------------------------
+def load_year_term(file_path, sheet_map):
+    """
+    sheet_map : { Excelシート名 : grade名 }
+    """
+    result = []
+    for sheet, grade in sheet_map.items():
+        part = load_sheet(file_path, sheet, grade)
+        result.extend(part)
+    return result
+
+# -------------------------
+# 助産統合（4年→4年助産補完）
+# -------------------------
+def add_schedule_to_josan(timetable):
+    josan_cfg = CONFIG["josan"]
+    source_grade = josan_cfg["source_grade"]
+    target_grade = josan_cfg["target_grade"]
+
+    source = {}
+    target = {}
+    for c in timetable:
+        key = c["date"] + str(c["period"])
+        if c["grade"] == source_grade:
+            source[key] = c
+        elif c["grade"] == target_grade:
+            target[key] = c
+    for key, c in source.items():
+        if key in target:
+            continue
+        new_c = c.copy()
+        new_c["grade"] = target_grade
+        timetable.append(new_c)
+    return timetable
+
+# -------------------------
+# JSON / info 保存
+# -------------------------
+def save_json(data, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"✓ {path} を生成（{len(data)} 件）")
+
+def save_info_json(file_path, out_path):
+    if not os.path.exists(file_path):
+        print(f"⚠ {file_path} がありません（空の info を作成）")
+        save_json({"file_path": file_path, "last_modified": None}, out_path)
+        return
     jst = timezone(timedelta(hours=9))
-    # UTCタイムスタンプを日本時間に変換
-    modified_time = datetime.fromtimestamp(file_stat.st_mtime, tz=jst).strftime('%Y-%m-%d %H:%M:%S')
+    ts = datetime.fromtimestamp(os.stat(file_path).st_mtime, tz=jst)
+    save_json({"file_path": file_path, "last_modified": ts.strftime("%Y-%m-%d %H:%M:%S")}, out_path)
 
-    # 更新時刻をinfo.jsonに書き込む
-    info_data = {"file_path": file_path, "last_modified": modified_time}
-    with open(info_json_path, 'w', encoding='utf-8') as f:
-        json.dump(info_data, f, ensure_ascii=False, indent=2)
-    print(f'{info_json_path} に更新時刻を保存しました。')
-
-if __name__ == "__main__":
-    s_excel_path = 'schedule_spring.xlsx'
-    f_excel_path = 'schedule_fall.xlsx'
-    json_path = 'docs/schedule.json'
-    s_info_json_path = 'docs/info_spring.json'
-    f_info_json_path = 'docs/info_fall.json'
-
-    sheet_names = {
-        '2025年度(1年前期)': '1年生',
-        '2025年度(2年前期)': '2年生',
-        '2025年度(3年前期)': '3年生',
-        '2025年度(4年前期)': '4年生',
-        '2025年度(助産前期)': '4年助産',
-        '2025年度(M1前期)': 'M1',
-        '2025年度(M2前期)': 'M2',
-        '2025年度(D1前期)': 'D1',
-        '2025年度(D23前期)': 'D2/D3',
+# -------------------------
+# シート名マップ（config.yaml から構築）
+# -------------------------
+def sheet_names_for_year(year, term):
+    yyyy = f"{year}年度"
+    sheets_cfg = CONFIG["sheets"][term]
+    return {
+        entry["sheet"].format(yyyy=yyyy): entry["grade"]
+        for entry in sheets_cfg
     }
+
+# -------------------------
+# 日付範囲フィルタ
+# -------------------------
+def filter_by_date_range(timetable, start_date, end_date):
+    result = []
+    for c in timetable:
+        try:
+            d = datetime.strptime(c["date"], "%Y-%m-%d")
+        except Exception:
+            continue
+        if start_date <= d <= end_date:
+            result.append(c)
+    return result
+
+# -------------------------
+# メイン
+# -------------------------
+if __name__ == "__main__":
+    start_date, end_date = get_display_period()
+    print(f"◆ 表示期間: {start_date.strftime('%Y-%m-%d')} ～ {end_date.strftime('%Y-%m-%d')}")
 
     all_timetable = []
 
-    for sheet_name, grade_name in sheet_names.items():
-        timetable, _, _ = get_schedule(s_excel_path, sheet_name, grade_name)
-        all_timetable.extend(timetable)
+    for entry in CONFIG["files"]:
+        save_name = entry["save_name"]
+        term, year = parse_save_name(save_name)
+        sheet_map = sheet_names_for_year(year, term)
 
-    for sheet_name, grade_name in sheet_names.items():
-        sheet_name = sheet_name.replace('前期', '後期')
-        timetable, _, _ = get_schedule(f_excel_path, sheet_name, grade_name)
-        all_timetable.extend(timetable)
+        print(f"→ {save_name} : term={term}, year={year}年度")
+        file_data = load_year_term(save_name, sheet_map)
 
+        # 個別JSON（フィルタなし）を保存
+        ind_path = individual_json_path(save_name)
+        save_json(file_data, ind_path)
+
+        all_timetable.extend(file_data)
+
+    # 助産統合
     all_timetable = add_schedule_to_josan(all_timetable)
-    save_to_json(all_timetable, json_path)
 
-    make_info_json(s_excel_path, s_info_json_path)
-    make_info_json(f_excel_path, f_info_json_path)
+    # display_period でフィルタ
+    filtered = filter_by_date_range(all_timetable, start_date, end_date)
+    print(f"◆ フィルタ前: {len(all_timetable)} 件 → フィルタ後: {len(filtered)} 件")
+
+    # 結合フィルタ済み JSON を出力
+    save_json(filtered, CONFIG["output"]["schedule_json"])
+
+    # info JSON を出力
+    for entry in CONFIG["files"]:
+        save_info_json(entry["save_name"], entry["info_json"])
