@@ -11,7 +11,7 @@ $(document).ready(function () {
 
             // 定数
             this.weekdays = ['日', '月', '火', '水', '木', '金', '土'];
-            this.undergradGrades = ["1年生", "2年生", "3年生", "4年生", "4年助産"];
+            this.undergradGrades = ["1年", "2年", "3年", "4年", "助産"];
             this.graduateGrades = ["M1", "M2", "D1", "D2/D3"];
             this.allGrades = this.undergradGrades.concat(this.graduateGrades);
 
