@@ -1,11 +1,7 @@
 name: Run Python Script on Excel Update
 
 on:
-  push:
-    paths:
-      - 'schedule_spring.xlsx'
-      - 'schedule_fall.xlsx'
-  workflow_dispatch:      # 手動実行も可能
+  workflow_dispatch:      # 手動実行のみ
   
 permissions:
   contents: write

@@ -1,0 +1,73 @@
+# SharePoint 設定
+sharepoint:
+  site_host: "ncnj.sharepoint.com"
+  site_path: "/sites/staff_sharedfolders"
+  graph_base: "https://graph.microsoft.com/v1.0"
+
+# ダウンロード対象ファイル定義
+# remote_path: SharePoint上のファイルパス（年度変更時にここを書き換える）
+# save_name:   ローカル保存名
+# info_json:   info JSON の出力先パス
+files:
+  - remote_path: "140.スケジュール・時間割/2026(R8)年度 時間割/【2026・04～09月 前期】全学年時間割.xlsx"
+    save_name: "schedule_spring_2026.xlsx"
+    info_json: "info_spring_2026.json"
+  - remote_path: "140.スケジュール・時間割/2026(R8)年度 時間割/【2026・10～03月 後期】全学年時間割.xlsx"
+    save_name: "schedule_fall_2026.xlsx"
+    info_json: "info_fall_2026.json"
+
+# Excel シート名テンプレート
+# {yyyy} は "2025年度" のような年度文字列に置換される
+sheets:
+  前期:
+    - sheet: "{yyyy}(1年前期)"
+      grade: "1年生"
+    - sheet: "{yyyy}(2年前期)"
+      grade: "2年生"
+    - sheet: "{yyyy}(3年前期)"
+      grade: "3年生"
+    - sheet: "{yyyy}(4年前期)"
+      grade: "4年生"
+    - sheet: "{yyyy}(助産前期)"
+      grade: "4年助産"
+    - sheet: "{yyyy}(M1前期)"
+      grade: "M1"
+    - sheet: "{yyyy}(M2前期)"
+      grade: "M2"
+    - sheet: "{yyyy}(D1前期)"
+      grade: "D1"
+    - sheet: "{yyyy}(D23前期)"
+      grade: "D2/D3"
+  後期:
+    - sheet: "{yyyy}(1年後期)"
+      grade: "1年生"
+    - sheet: "{yyyy}(2年後期)"
+      grade: "2年生"
+    - sheet: "{yyyy}(3年後期)"
+      grade: "3年生"
+    - sheet: "{yyyy}(4年後期)"
+      grade: "4年生"
+    - sheet: "{yyyy}(助産後期)"
+      grade: "4年助産"
+    - sheet: "{yyyy}(M1後期)"
+      grade: "M1"
+    - sheet: "{yyyy}(M2後期)"
+      grade: "M2"
+    - sheet: "{yyyy}(D1後期)"
+      grade: "D1"
+    - sheet: "{yyyy}(D23後期)"
+      grade: "D2/D3"
+
+# 出力先
+output:
+  schedule_json: "docs/schedule.json"
+
+# 助産統合の対象
+josan:
+  source_grade: "4年生"
+  target_grade: "4年助産"
+
+# 表示期間
+display_period:
+  start_date: "2026-04-01"
+  end_date: "2026-09-20"
