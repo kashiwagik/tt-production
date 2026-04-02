@@ -3009,14 +3009,6 @@
   },
   {
     "grade": "2年",
-    "date": "2026-04-13",
-    "period": 5,
-    "courses": "疾病･病態論Ⅱ\n(桂川先生)",
-    "room": 201,
-    "comment": ""
-  },
-  {
-    "grade": "2年",
     "date": "2026-04-14",
     "period": 1,
     "courses": "英語Ⅲ(CD)\n生活援助論Ⅲ(AB)",
@@ -4292,6 +4284,14 @@
     "date": "2026-06-15",
     "period": 4,
     "courses": "成人看護援助論Ⅰ",
+    "room": 201,
+    "comment": ""
+  },
+  {
+    "grade": "2年",
+    "date": "2026-06-15",
+    "period": 5,
+    "courses": "疾病･病態論Ⅱ\n(桂川先生)",
     "room": 201,
     "comment": ""
   },
