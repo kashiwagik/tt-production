@@ -83,15 +83,6 @@
         <h1>更新情報</h1>
         
         <div class="update-item">
-            <div class="update-date">2026年4月2日</div>
-            <div class="update-content">
-                <ul>
-                    <li>月間表示（βバージョン）を始めました</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="update-item">
             <div class="update-date">2025年9月17日</div>
             <div class="update-content">
                 <ul>

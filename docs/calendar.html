@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>時間割カレンダー</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* カレンダー固有スタイル */
+    #calendarBody td {
+      height: 100px;
+      vertical-align: top;
+      text-align: left;
+      min-width: 0;
+    }
+
+    .date {
+      font-weight: bold;
+      color: var(--primary-dark);
+      font-size: 0.85rem;
+    }
+
+    .today {
+      background: var(--primary-lightest);
+    }
+
+    .cal-class {
+      background: var(--primary-lightest);
+      margin: 2px 0;
+      padding: 2px 4px;
+      border-radius: 3px;
+      font-size: 0.7rem;
+      border-left: 3px solid var(--primary-color);
+    }
+
+    .cal-comment {
+      color: #e74c3c;
+      font-size: 0.7rem;
+    }
+
+    @media (max-width: 768px) {
+      #calendarBody td {
+        height: 80px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- トップバー -->
+  <div class="topbar">
+    <button class="menu-button">
+      <a href="index.html"><i class="fas fa-arrow-left"></i></a>
+    </button>
+    <div class="topbar-title">時間割（月間表示βバージョン）</div>
+  </div>
+
+  <div class="container">
+    <header>
+      <!-- 学年ドロップダウン -->
+      <div class="view-controls">
+        <div class="custom-dropdown" id="grade-dropdown">
+          <div class="dropdown-toggle" id="grade-dropdown-toggle">1年</div>
+          <div class="dropdown-menu" id="grade-dropdown-menu">
+            <!-- JS で生成 -->
+          </div>
+        </div>
+      </div>
+
+      <!-- 月セレクター -->
+      <div class="date-selector">
+        <div class="date-nav">
+          <button onclick="prevMonth()"><i class="fas fa-chevron-left"></i></button>
+        </div>
+        <div class="date-display" id="title">Loading...</div>
+        <div class="date-nav">
+          <button onclick="nextMonth()"><i class="fas fa-chevron-right"></i></button>
+        </div>
+      </div>
+    </header>
+
+    <!-- カレンダー表示部分 -->
+    <div class="timetable-container">
+      <div class="timetable-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>月</th>
+              <th>火</th>
+              <th>水</th>
+              <th>木</th>
+              <th>金</th>
+            </tr>
+          </thead>
+          <tbody id="calendarBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <footer>
+      <div class="footer-content">
+        <a href="index.html">← トップへ戻る</a>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    let allData = [];
+    let currentDate = new Date();
+    let selectedGrade = "";
+
+    // JSON読み込み
+    fetch("schedule.json")
+      .then(res => res.json())
+      .then(data => {
+        allData = data;
+        initGradeSelector();
+        render();
+      });
+
+    // ドロップダウン開閉
+    const toggle = document.getElementById("grade-dropdown-toggle");
+    const menu = document.getElementById("grade-dropdown-menu");
+
+    toggle.addEventListener("click", () => {
+      menu.classList.toggle("show");
+    });
+
+    document.addEventListener("click", (e) => {
+      if (!document.getElementById("grade-dropdown").contains(e.target)) {
+        menu.classList.remove("show");
+      }
+    });
+
+    // 学年セレクター初期化
+    function initGradeSelector() {
+      const grades = ["1年", "2年", "3年", "4年", "助産", "M1", "M2", "D1", "D2/D3"];
+      menu.innerHTML = "";
+
+      grades.forEach((g, index) => {
+        const item = document.createElement("div");
+        item.className = "dropdown-item" + (index === 0 ? " active" : "");
+        item.dataset.value = g;
+        item.textContent = g;
+        item.addEventListener("click", () => {
+          menu.querySelectorAll(".dropdown-item").forEach(el => el.classList.remove("active"));
+          item.classList.add("active");
+          toggle.textContent = g;
+          selectedGrade = g;
+          menu.classList.remove("show");
+          render();
+        });
+        menu.appendChild(item);
+      });
+
+      selectedGrade = grades[0];
+      toggle.textContent = grades[0];
+    }
+
+    // 描画
+    function render() {
+      const tbody = document.getElementById("calendarBody");
+      tbody.innerHTML = "";
+
+      const year = currentDate.getFullYear();
+      const month = currentDate.getMonth();
+
+      document.getElementById("title").innerText =
+        `${year}年 ${month + 1}月`;
+
+      let data = allData.filter(d => {
+        let g = d.grade;
+
+        if (["1", "2", "3", "4"].includes(g)) g = g + "年";
+
+        if (selectedGrade === "D2/D3") {
+          return g === "D2" || g === "D3";
+        }
+
+        return g === selectedGrade;
+      });
+
+      const monthStr = `${year}-${String(month + 1).padStart(2, "0")}`;
+      data = data.filter(d => d.date.startsWith(monthStr));
+
+      const map = {};
+      data.forEach(d => {
+        if (!map[d.date]) map[d.date] = [];
+        map[d.date].push(d);
+      });
+
+      const firstDay = new Date(year, month, 1);
+      const lastDate = new Date(year, month + 1, 0).getDate();
+
+      let row = document.createElement("tr");
+
+      // 月初の曜日（月=0, 火=1, ..., 金=4 に変換）
+      const firstDow = (firstDay.getDay() + 6) % 7; // 0=月,1=火,...,6=日
+      const startPad = Math.min(firstDow, 5); // 土日は0
+      for (let i = 0; i < startPad; i++) {
+        row.appendChild(document.createElement("td"));
+      }
+
+      for (let date = 1; date <= lastDate; date++) {
+        const dow = new Date(year, month, date).getDay();
+        // 土日(0=日, 6=土)はスキップ
+        if (dow === 0 || dow === 6) continue;
+
+        const cell = document.createElement("td");
+        const dateStr = `${year}-${String(month + 1).padStart(2, "0")}-${String(date).padStart(2, "0")}`;
+
+        const today = new Date();
+        if (
+          today.getFullYear() === year &&
+          today.getMonth() === month &&
+          today.getDate() === date
+        ) {
+          cell.classList.add("today");
+        }
+
+        const dateDiv = document.createElement("div");
+        dateDiv.className = "date";
+        dateDiv.innerText = date;
+        cell.appendChild(dateDiv);
+
+        const dayData = map[dateStr] || [];
+        dayData.sort((a, b) => Number(a.period) - Number(b.period));
+
+        dayData.forEach(d => {
+          const periodNum = Number(d.period);
+
+          if (periodNum === 0) {
+            const c = document.createElement("div");
+            c.className = "cal-comment";
+            c.innerText = d.comment;
+            cell.appendChild(c);
+          } else {
+            const c = document.createElement("div");
+            c.className = "cal-class";
+
+            const subject = d.courses || "科目不明";
+            const room = (d.room !== undefined && d.room !== null) ? String(d.room) : "";
+
+            c.innerText = room
+              ? `${periodNum}限 ${subject}（${room}）`
+              : `${periodNum}限 ${subject}`;
+
+            cell.appendChild(c);
+          }
+        });
+
+        row.appendChild(cell);
+
+        // 金曜日(dow=5)で行を区切る
+        if (dow === 5) {
+          tbody.appendChild(row);
+          row = document.createElement("tr");
+        }
+      }
+
+      // 最後の行が未追加なら追加
+      if (row.children.length > 0) {
+        tbody.appendChild(row);
+      }
+    }
+
+    // 月切り替え
+    function prevMonth() {
+      currentDate.setMonth(currentDate.getMonth() - 1);
+      render();
+    }
+
+    function nextMonth() {
+      currentDate.setMonth(currentDate.getMonth() + 1);
+      render();
+    }
+  </script>
+
+</body>
+
+</html>
