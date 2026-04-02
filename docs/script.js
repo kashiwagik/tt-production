@@ -452,21 +452,10 @@ $(document).ready(function () {
 
         async loadInfoData() {
             try {
-                const infoSprintData = await $.getJSON('info_spring.json');
-                const infoFallData = await $.getJSON('info_fall.json');
+                const infoData = await $.getJSON('info.json');
 
-                const date_s = new Date(infoSprintData.last_modified);
-                const date_f = new Date(infoFallData.last_modified);
+                const last_modified = new Date(infoData.last_modified).getTime()
 
-                // 有効な日付のみを取り出す
-                const timestamps = [];
-                if (!isNaN(date_s.getTime())) timestamps.push(date_s.getTime());
-                if (!isNaN(date_f.getTime())) timestamps.push(date_f.getTime());
-
-                const last_modified_ts = timestamps.length > 0 ? Math.max(...timestamps) : null;
-                const last_modified = last_modified_ts ? new Date(last_modified_ts) : null;
-
-                let infoData = { last_modified };
                 console.log("Info data loaded successfully:", infoData);
 
                 this.state.infoData = infoData;
