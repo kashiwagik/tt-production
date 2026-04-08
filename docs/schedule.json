@@ -8500,7 +8500,15 @@
     "date": "2026-04-15",
     "period": 1,
     "courses": "4年",
-    "room": "",
+    "room": "GTEC未受検者　追試験",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-15",
+    "period": 2,
+    "courses": 101,
+    "room": "卒業研究Ⅱ",
     "comment": ""
   },
   {
@@ -11093,6 +11101,14 @@
     "period": 5,
     "courses": "卒業研究Ⅰ",
     "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年",
+    "date": "2026-04-15",
+    "period": 1,
+    "courses": "GTEC未受検者　追試験",
+    "room": 101,
     "comment": ""
   },
   {
