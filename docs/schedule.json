@@ -3466,14 +3466,6 @@
   {
     "grade": "2年",
     "date": "2026-05-08",
-    "period": 1,
-    "courses": "マスコミュニケーション論",
-    "room": 201,
-    "comment": ""
-  },
-  {
-    "grade": "2年",
-    "date": "2026-05-08",
     "period": 2,
     "courses": "生活援助論Ⅲ",
     "room": 201,
@@ -4050,17 +4042,9 @@
   {
     "grade": "2年",
     "date": "2026-06-04",
-    "period": 1,
-    "courses": "(マスコミュニケーション論移動先候補)",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "2年",
-    "date": "2026-06-04",
     "period": 2,
-    "courses": "空きコマ",
-    "room": "",
+    "courses": "マスコミュニケーション論",
+    "room": 304,
     "comment": ""
   },
   {
