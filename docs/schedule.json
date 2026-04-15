@@ -8764,23 +8764,7 @@
     "date": "2026-04-28",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-28",
-    "period": 2,
-    "courses": 201,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-28",
-    "period": 3,
-    "courses": 202,
-    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
+    "room": "",
     "comment": ""
   },
   {
@@ -9004,23 +8988,7 @@
     "date": "2026-05-12",
     "period": 3,
     "courses": "大講義室",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-12",
-    "period": 4,
-    "courses": 304,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-12",
-    "period": 5,
-    "courses": 304,
-    "room": "卒業研究Ⅰ",
+    "room": "",
     "comment": ""
   },
   {
@@ -9148,23 +9116,7 @@
     "date": "2026-05-19",
     "period": 3,
     "courses": 201,
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-19",
-    "period": 4,
-    "courses": 304,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-19",
-    "period": 5,
-    "courses": 304,
-    "room": "卒業研究Ⅰ",
+    "room": "",
     "comment": ""
   },
   {
@@ -9428,22 +9380,6 @@
     "date": "2026-06-02",
     "period": 3,
     "courses": 103,
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-02",
-    "period": 4,
-    "courses": 101,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-02",
-    "period": 5,
-    "courses": 101,
     "room": "",
     "comment": ""
   },
@@ -11314,22 +11250,6 @@
   {
     "grade": "4年",
     "date": "2026-04-28",
-    "period": 1,
-    "courses": "英語S",
-    "room": 201,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-04-28",
-    "period": 2,
-    "courses": "英語Ⅵ",
-    "room": 202,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-04-28",
     "period": 3,
     "courses": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
     "room": 201,
@@ -11522,22 +11442,6 @@
   {
     "grade": "4年",
     "date": "2026-05-12",
-    "period": 3,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-05-12",
-    "period": 4,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-05-12",
     "period": 5,
     "courses": "卒業研究Ⅰ",
     "room": "",
@@ -11653,22 +11557,6 @@
     "period": 2,
     "courses": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
     "room": 201,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-05-19",
-    "period": 3,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-05-19",
-    "period": 4,
-    "courses": "英語Ⅵ",
-    "room": 304,
     "comment": ""
   },
   {
@@ -11869,22 +11757,6 @@
     "period": 2,
     "courses": "国試対策基礎学力テスト追再試/補講",
     "room": 103,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-06-02",
-    "period": 3,
-    "courses": "英語S",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-06-02",
-    "period": 4,
-    "courses": "英語Ⅵ",
-    "room": 101,
     "comment": ""
   },
   {
@@ -32676,30 +32548,6 @@
     "date": "2026-10-06",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-06",
-    "period": 2,
-    "courses": 304,
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-06",
-    "period": 3,
-    "courses": 304,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-06",
-    "period": 4,
-    "courses": 304,
     "room": "",
     "comment": ""
   },
@@ -32756,30 +32604,6 @@
     "date": "2026-10-13",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-13",
-    "period": 2,
-    "courses": 304,
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-13",
-    "period": 3,
-    "courses": 304,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-13",
-    "period": 4,
-    "courses": 304,
     "room": "",
     "comment": ""
   },
@@ -32836,23 +32660,7 @@
     "date": "2026-10-20",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-20",
-    "period": 2,
-    "courses": 304,
     "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-20",
-    "period": 4,
-    "courses": 304,
-    "room": "インフルエンザ①\n15:00～16:00",
     "comment": ""
   },
   {
@@ -32908,23 +32716,7 @@
     "date": "2026-10-27",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-27",
-    "period": 2,
-    "courses": 304,
     "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-27",
-    "period": 4,
-    "courses": 304,
-    "room": "インフルエンザ②_x000D_\n15:00～16:00",
     "comment": ""
   },
   {
@@ -33004,14 +32796,6 @@
     "date": "2026-11-02",
     "period": 1,
     "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-11-02",
-    "period": 4,
-    "courses": 304,
     "room": "",
     "comment": ""
   },
@@ -33113,33 +32897,9 @@
   },
   {
     "grade": "4年・助産",
-    "date": "2026-11-09",
-    "period": 3,
-    "courses": 304,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
     "date": "2026-11-10",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-11-10",
-    "period": 2,
-    "courses": 304,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-11-10",
-    "period": 4,
-    "courses": 304,
     "room": "",
     "comment": ""
   },
@@ -33196,22 +32956,6 @@
     "date": "2026-11-16",
     "period": 1,
     "courses": "4年",
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-11-16",
-    "period": 2,
-    "courses": 304,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-11-16",
-    "period": 3,
-    "courses": 304,
     "room": "",
     "comment": ""
   },
@@ -33420,15 +33164,7 @@
     "date": "2026-11-30",
     "period": 3,
     "courses": 301,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-11-30",
-    "period": 4,
-    "courses": 301,
-    "room": "看護情報学",
+    "room": "",
     "comment": ""
   },
   {
@@ -33588,15 +33324,7 @@
     "date": "2026-12-07",
     "period": 3,
     "courses": 301,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-12-07",
-    "period": 4,
-    "courses": 304,
-    "room": "看護情報学",
+    "room": "",
     "comment": ""
   },
   {
@@ -33796,15 +33524,7 @@
     "date": "2026-12-15",
     "period": 1,
     "courses": "4年",
-    "room": "英語S",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-12-15",
-    "period": 2,
-    "courses": 304,
-    "room": "看護管理論",
+    "room": "",
     "comment": ""
   },
   {
@@ -33812,15 +33532,7 @@
     "date": "2026-12-15",
     "period": 3,
     "courses": 301,
-    "room": "英語Ⅵ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-12-15",
-    "period": 4,
-    "courses": 304,
-    "room": "医療政策学",
+    "room": "",
     "comment": ""
   },
   {
@@ -34276,15 +33988,7 @@
     "date": "2027-01-13",
     "period": 1,
     "courses": "4年",
-    "room": "英語S　期末試験",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2027-01-13",
-    "period": 2,
-    "courses": 103,
-    "room": "医療政策学　期末試験",
+    "room": "",
     "comment": ""
   },
   {
@@ -34292,14 +33996,6 @@
     "date": "2027-01-13",
     "period": 3,
     "courses": "大講義室",
-    "room": "英語Ⅵ　期末試験",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2027-01-13",
-    "period": 4,
-    "courses": 103,
     "room": "",
     "comment": ""
   },
@@ -35081,30 +34777,6 @@
   },
   {
     "grade": "4年",
-    "date": "2026-10-06",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-06",
-    "period": 2,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-06",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
     "date": "2026-10-07",
     "period": 1,
     "courses": "卒業研究Ⅱ",
@@ -35161,30 +34833,6 @@
   },
   {
     "grade": "4年",
-    "date": "2026-10-13",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-13",
-    "period": 2,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-13",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
     "date": "2026-10-14",
     "period": 1,
     "courses": "卒業研究Ⅱ",
@@ -35210,22 +34858,6 @@
   {
     "grade": "4年",
     "date": "2026-10-20",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-20",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-20",
     "period": 4,
     "courses": "インフルエンザ①15:00～16:00",
     "room": "",
@@ -35246,22 +34878,6 @@
     "courses": "",
     "room": "",
     "comment": "M論文計画発表会_x000D_\n学内教員授業は終日入れない_x000D_\n(授業は原則非常勤科目のみ)"
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-27",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-10-27",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
   },
   {
     "grade": "4年",
@@ -35321,14 +34937,6 @@
   },
   {
     "grade": "4年",
-    "date": "2026-11-02",
-    "period": 3,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
     "date": "2026-11-04",
     "period": 1,
     "courses": "科学技術と医療\n(石原先生)",
@@ -35377,50 +34985,10 @@
   },
   {
     "grade": "4年",
-    "date": "2026-11-09",
-    "period": 2,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-11-10",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-11-10",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
     "date": "2026-11-11",
     "period": 1,
     "courses": "科学技術と医療\n(石原先生)",
     "room": "301(対面\nまたは\nリアタイ)",
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-11-16",
-    "period": 1,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-11-16",
-    "period": 2,
-    "courses": "英語Ⅵ",
-    "room": 304,
     "comment": ""
   },
   {
@@ -35516,14 +35084,6 @@
     "date": "2026-11-30",
     "period": 2,
     "courses": "科学技術と医療\n(中村先生)",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-11-30",
-    "period": 3,
-    "courses": "英語Ⅵ",
     "room": 301,
     "comment": ""
   },
@@ -35629,14 +35189,6 @@
     "period": 2,
     "courses": "看護管理論",
     "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-12-07",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
     "comment": ""
   },
   {
@@ -35778,25 +35330,9 @@
   {
     "grade": "4年",
     "date": "2026-12-15",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-12-15",
     "period": 2,
     "courses": "看護管理論",
     "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2026-12-15",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
     "comment": ""
   },
   {
@@ -36042,25 +35578,9 @@
   {
     "grade": "4年",
     "date": "2027-01-13",
-    "period": 1,
-    "courses": "英語S　期末試験",
-    "room": 103,
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2027-01-13",
     "period": 2,
     "courses": "医療政策学　期末試験",
     "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "4年",
-    "date": "2027-01-13",
-    "period": 3,
-    "courses": "英語Ⅵ　期末試験",
-    "room": 103,
     "comment": ""
   },
   {
@@ -48682,22 +48202,6 @@
   {
     "grade": "助産",
     "date": "2026-05-12",
-    "period": 3,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "助産",
-    "date": "2026-05-12",
-    "period": 4,
-    "courses": "英語Ⅵ",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "助産",
-    "date": "2026-05-12",
     "period": 5,
     "courses": "卒業研究Ⅰ",
     "room": "",
@@ -50050,25 +49554,9 @@
   {
     "grade": "助産",
     "date": "2026-12-15",
-    "period": 1,
-    "courses": "英語S",
-    "room": 304,
-    "comment": ""
-  },
-  {
-    "grade": "助産",
-    "date": "2026-12-15",
     "period": 2,
     "courses": "看護管理論",
     "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "助産",
-    "date": "2026-12-15",
-    "period": 3,
-    "courses": "英語Ⅵ",
-    "room": 304,
     "comment": ""
   },
   {
@@ -50282,25 +49770,9 @@
   {
     "grade": "助産",
     "date": "2027-01-13",
-    "period": 1,
-    "courses": "英語S　期末試験",
-    "room": 103,
-    "comment": ""
-  },
-  {
-    "grade": "助産",
-    "date": "2027-01-13",
     "period": 2,
     "courses": "医療政策学　期末試験",
     "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "助産",
-    "date": "2027-01-13",
-    "period": 3,
-    "courses": "英語Ⅵ　期末試験",
-    "room": 103,
     "comment": ""
   },
   {
