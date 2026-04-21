@@ -15867,16 +15867,16 @@
     "grade": "M1",
     "date": "2026-06-17",
     "period": 3,
-    "courses": "成人看護学特論A-Ⅱ",
-    "room": "",
+    "courses": "成人看護学特論A-Ⅱ\n精神看護学特論A-Ⅲ",
+    "room": "精神：臨床講義室1",
     "comment": ""
   },
   {
     "grade": "M1",
     "date": "2026-06-17",
     "period": 4,
-    "courses": "成人看護学特論A-Ⅱ",
-    "room": "",
+    "courses": "成人看護学特論A-Ⅱ\n精神看護学特論A-Ⅲ",
+    "room": "精神：臨床講義室1",
     "comment": ""
   },
   {
@@ -17107,16 +17107,16 @@
     "grade": "M1",
     "date": "2026-08-13",
     "period": 3,
-    "courses": "精神看護学特論A-Ⅳ〈慢性期〉",
-    "room": "",
+    "courses": "精神看護学演習AｰⅠ",
+    "room": "臨床講義室2",
     "comment": ""
   },
   {
     "grade": "M1",
     "date": "2026-08-13",
     "period": 4,
-    "courses": "精神看護学特論A-Ⅳ〈慢性期〉",
-    "room": "",
+    "courses": "精神看護学演習AｰⅠ",
+    "room": "臨床講義室2",
     "comment": ""
   },
   {
