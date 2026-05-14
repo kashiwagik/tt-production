@@ -1,2861 +1,5 @@
 [
   {
-    "grade": "3年",
-    "date": "2026-04-02",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オリエンテーション期間"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-02",
-    "period": 2,
-    "courses": "履修/学生生活/キャリアガイダンス",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-02",
-    "period": 3,
-    "courses": "教科書販売",
-    "room": "講堂前ホール",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-02",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-03",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オリエンテーション期間"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-03",
-    "period": 1,
-    "courses": "地域･在宅看護学実践論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-03",
-    "period": 2,
-    "courses": "第1回領域別実習オリエンテーション",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-03",
-    "period": 3,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-03",
-    "period": 4,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-06",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オリエンテーション期間"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-06",
-    "period": 2,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-06",
-    "period": 3,
-    "courses": "防犯･防災教室",
-    "room": "講堂",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-06",
-    "period": 4,
-    "courses": "チューター別グループ面談\n校内見学",
-    "room": "各室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-07",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オリエンテーション期間"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-07",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-07",
-    "period": 2,
-    "courses": "3･4年合同グループワーク",
-    "room": "アリーナ",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-07",
-    "period": 3,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-07",
-    "period": 4,
-    "courses": "健康診断",
-    "room": "101～103･自習室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-08",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オリエンテーション期間"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-09",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "入学式･25周年記念式典"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-10",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "前期 必修･選択_x000D_\n履修登録期限"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-10",
-    "period": 1,
-    "courses": "周産期看護",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-10",
-    "period": 2,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-10",
-    "period": 3,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-10",
-    "period": 4,
-    "courses": "新入生歓迎会･サークル紹介",
-    "room": "アリーナ･大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-13",
-    "period": 1,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-13",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-13",
-    "period": 3,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-13",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-14",
-    "period": 1,
-    "courses": "癒しの科学",
-    "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-14",
-    "period": 2,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-14",
-    "period": 3,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-14",
-    "period": 4,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-15",
-    "period": 1,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-15",
-    "period": 2,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-15",
-    "period": 3,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-15",
-    "period": 4,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-16",
-    "period": 1,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-16",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-16",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-16",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-17",
-    "period": 1,
-    "courses": "地域･在宅看護学実践論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-17",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-17",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-17",
-    "period": 4,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-20",
-    "period": 1,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-20",
-    "period": 2,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-20",
-    "period": 3,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-20",
-    "period": 4,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-21",
-    "period": 1,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-21",
-    "period": 2,
-    "courses": "周産期看護",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-21",
-    "period": 3,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-21",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-22",
-    "period": 1,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-22",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-22",
-    "period": 3,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-22",
-    "period": 4,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-23",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "1・2限政策・統合オリ"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-23",
-    "period": 1,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-23",
-    "period": 2,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-23",
-    "period": 3,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-23",
-    "period": 4,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-24",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-24",
-    "period": 2,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-24",
-    "period": 3,
-    "courses": "地域･在宅看護学実践論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-24",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-27",
-    "period": 1,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-27",
-    "period": 2,
-    "courses": "成人看護援助論Ⅲ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-27",
-    "period": 3,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-27",
-    "period": 4,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-28",
-    "period": 1,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-28",
-    "period": 2,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-28",
-    "period": 3,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-28",
-    "period": 4,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-29",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "昭和の日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-30",
-    "period": 1,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-30",
-    "period": 2,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-30",
-    "period": 3,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-04-30",
-    "period": 4,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-01",
-    "period": 1,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-01",
-    "period": 2,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-01",
-    "period": 3,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-01",
-    "period": 4,
-    "courses": "癒しの科学",
-    "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-03",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "憲法記念日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-04",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "みどりの日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-05",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "こどもの日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-06",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "振替休日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-07",
-    "period": 1,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-07",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-07",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "301･成人実･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-07",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "301･成人実･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-08",
-    "period": 1,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-08",
-    "period": 2,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-08",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-08",
-    "period": 4,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-10",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "看護の日\nミニオープンキャンパス"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-11",
-    "period": 1,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-11",
-    "period": 2,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-11",
-    "period": 3,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-11",
-    "period": 4,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-12",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "★成人看護援助論Ⅲ模擬患者控室で1～2限も在宅実使います"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-12",
-    "period": 1,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-12",
-    "period": 2,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-12",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
-    "room": "成人実･在宅実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-12",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
-    "room": "成人実･在宅実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-13",
-    "period": 1,
-    "courses": "精神看護援助論\n(コミュニケーション演習)",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-13",
-    "period": 2,
-    "courses": "精神看護援助論\n(コミュニケーション演習)",
-    "room": "301･302･303･203･204･205",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-13",
-    "period": 3,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-13",
-    "period": 4,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-14",
-    "period": 1,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-14",
-    "period": 2,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-14",
-    "period": 3,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-14",
-    "period": 4,
-    "courses": "地域･在宅看護学実践論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-15",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "幼稚園実習",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-15",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "幼稚園実習",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-15",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-15",
-    "period": 4,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-18",
-    "period": 1,
-    "courses": "精神看護援助論\n(看護過程演習)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-18",
-    "period": 2,
-    "courses": "精神看護援助論\n(看護過程演習)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-18",
-    "period": 3,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-18",
-    "period": 4,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-19",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-19",
-    "period": 2,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-19",
-    "period": 3,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-19",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-20",
-    "period": 1,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-20",
-    "period": 2,
-    "courses": "看護倫理",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-21",
-    "period": 1,
-    "courses": "看護と安全",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-21",
-    "period": 2,
-    "courses": "地域･在宅看護学実践論（看護過程演習①）",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-21",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-21",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-22",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-22",
-    "period": 2,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-22",
-    "period": 3,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-22",
-    "period": 4,
-    "courses": "災害時初動対応訓練",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-25",
-    "period": 2,
-    "courses": "癒しの科学",
-    "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-25",
-    "period": 3,
-    "courses": "癒しの科学",
-    "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-25",
-    "period": 4,
-    "courses": "癒しの科学",
-    "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-26",
-    "period": 1,
-    "courses": "政策医療看護論Ⅰ\n習田看護課長講義コマ",
-    "room": "講堂",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-26",
-    "period": 2,
-    "courses": "政策医療看護論Ⅰ\n習田看護課長講義コマ",
-    "room": "講堂",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-26",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-26",
-    "period": 4,
-    "courses": "周産期看護",
-    "room": "母小実・基礎実･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-26",
-    "period": 5,
-    "courses": "成育の抗体価・ワクチン接種の書類作成の説明",
-    "room": 202,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-27",
-    "period": 1,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-27",
-    "period": 2,
-    "courses": "国際関係論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-27",
-    "period": 3,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-27",
-    "period": 4,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-28",
-    "period": 1,
-    "courses": "地域･在宅看護学実践論（看護過程演習②GW）",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-28",
-    "period": 2,
-    "courses": "地域･在宅看護学実践論（看護過程演習③GW）",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-28",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-28",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-29",
-    "period": 1,
-    "courses": "老年看護援助論",
-    "room": "基礎実・成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-29",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": "基礎実・成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-29",
-    "period": 3,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-05-29",
-    "period": 4,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-01",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "★成人看護援助論Ⅲ模擬患者控室で1限も在宅実使います"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-01",
-    "period": 1,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-01",
-    "period": 2,
-    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
-    "room": "基礎実･成人実･102･202･在宅実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-01",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
-    "room": "基礎実･成人実･102･202･在宅実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-01",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
-    "room": "基礎実･成人実･在宅実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-02",
-    "period": 1,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-02",
-    "period": 2,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-02",
-    "period": 3,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-03",
-    "period": 1,
-    "courses": "癒しの科学",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-03",
-    "period": 2,
-    "courses": "癒しの科学",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-03",
-    "period": 3,
-    "courses": "癒しの科学",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-04",
-    "period": 1,
-    "courses": "地域･在宅看護学実践論（家庭訪問演習AB）",
-    "room": "在宅実･101",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-04",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-04",
-    "period": 3,
-    "courses": "地域･在宅看護学実践論（家庭訪問演習CD）",
-    "room": "在宅実･103",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-05",
-    "period": 1,
-    "courses": "地域･在宅看護学実践論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-05",
-    "period": 2,
-    "courses": "看護倫理",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-05",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-05",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-08",
-    "period": 1,
-    "courses": "英語Ⅴ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-08",
-    "period": 2,
-    "courses": "英語Ⅴ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-08",
-    "period": 3,
-    "courses": "地域･在宅看護学実践論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-08",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-09",
-    "period": 2,
-    "courses": "看護実践と研究成果の活用",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-09",
-    "period": 3,
-    "courses": "看護教育論",
-    "room": 201,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-09",
-    "period": 4,
-    "courses": "周産期看護",
-    "room": 201,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-10",
-    "period": 1,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-10",
-    "period": 2,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-11",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "前期試験①の追再試は空きコマで調整"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-11",
-    "period": 1,
-    "courses": "看護倫理　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-11",
-    "period": 2,
-    "courses": "看護と安全　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-12",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "前期試験①の追再試は空きコマで調整"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-12",
-    "period": 2,
-    "courses": "国際関係論　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-15",
-    "period": 1,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-15",
-    "period": 2,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-15",
-    "period": 3,
-    "courses": "看護教育論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-15",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ\n(循セン看護部長)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-16",
-    "period": 2,
-    "courses": "政策医療看護論Ⅰ\n(がん中看護部長)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-16",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-16",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-18",
-    "period": 1,
-    "courses": "地域･在宅看護学実践論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-18",
-    "period": 2,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-18",
-    "period": 3,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-18",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ\n(NCNP 中村看護部長)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-19",
-    "period": 1,
-    "courses": "精神看護援助論\n(看護過程発表準備)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-19",
-    "period": 2,
-    "courses": "精神看護援助論\n(看護過程発表準備)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-19",
-    "period": 3,
-    "courses": "地域･在宅看護学実践論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-19",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ\n（がん東 看護部長）",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-22",
-    "period": 1,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-22",
-    "period": 2,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-22",
-    "period": 3,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-22",
-    "period": 4,
-    "courses": "老年看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-23",
-    "period": 1,
-    "courses": "周産期看護",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-23",
-    "period": 2,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-23",
-    "period": 3,
-    "courses": "政策医療看護論Ⅰ\n(GWコマ)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-23",
-    "period": 4,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-24",
-    "period": 2,
-    "courses": "老年看護援助論\n(病院見学オリエンテーション)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-24",
-    "period": 3,
-    "courses": "地域･在宅看護学実践論",
-    "room": "成人実･在宅実･101",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-24",
-    "period": 4,
-    "courses": "地域･在宅看護学実践論",
-    "room": "成人実･在宅実･101",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-25",
-    "period": 2,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-25",
-    "period": 3,
-    "courses": "小児看護援助論Ⅱ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-25",
-    "period": 4,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-25",
-    "period": 5,
-    "courses": "看護倫理　追再試",
-    "room": 302,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-26",
-    "period": 1,
-    "courses": "政策医療看護論Ⅰ\n(成育 萬看護部長講義)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-26",
-    "period": 2,
-    "courses": "地域･在宅看護学実践論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-29",
-    "period": 3,
-    "courses": "看護教育論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-29",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ\n(NCGM看護部長)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-30",
-    "period": 1,
-    "courses": "国際看護論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-30",
-    "period": 2,
-    "courses": "政策医療看護論Ⅰ\n(国府台 宮崎看護部長)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-30",
-    "period": 3,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-06-30",
-    "period": 4,
-    "courses": "英語Ⅴ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-02",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-02",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-02",
-    "period": 3,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-03",
-    "period": 2,
-    "courses": "政策医療看護論Ⅰ\n(長寿医療センター看護部長)",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-03",
-    "period": 3,
-    "courses": "周産期看護",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-03",
-    "period": 4,
-    "courses": "看護実践と研究成果の活用",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-06",
-    "period": 2,
-    "courses": "国際看護論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-06",
-    "period": 3,
-    "courses": "看護実践と研究成果の活用",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-06",
-    "period": 4,
-    "courses": "政策医療看護論Ⅰ",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-07",
-    "period": 1,
-    "courses": "精神看護援助論\n（看護過程成果発表）",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-07",
-    "period": 2,
-    "courses": "精神看護援助論\n（看護過程成果発表）",
-    "room": "301･302･303",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-07",
-    "period": 3,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-07",
-    "period": 4,
-    "courses": "看護教育論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-09",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
-    "room": "母小実･301･204･205",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-09",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
-    "room": "母小実･301･204･205",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-09",
-    "period": 3,
-    "courses": "精神看護援助論",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-09",
-    "period": 4,
-    "courses": "成育の抗体価・ワクチン接種の書類の提出",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-10",
-    "period": 1,
-    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
-    "room": "母小実･301･204･205",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-10",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
-    "room": "母小実･301･204･205",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-10",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-13",
-    "period": 1,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-13",
-    "period": 2,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-13",
-    "period": 3,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-13",
-    "period": 4,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-14",
-    "period": 1,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-14",
-    "period": 2,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-14",
-    "period": 3,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-14",
-    "period": 4,
-    "courses": "老年看護援助論\n(NCGG病院見学)",
-    "room": "NCGG",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-15",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "1限は空けておく\n(前日がNCGG）"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-15",
-    "period": 2,
-    "courses": "老年看護援助論",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-15",
-    "period": 3,
-    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
-    "room": "N95:301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-15",
-    "period": 4,
-    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
-    "room": "N95:301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-16",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "後期履修ガイダンス_x000D_\n(全学年2限、共通説明部分はオンライン)"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-16",
-    "period": 1,
-    "courses": "成人看護学実習Ⅱオリ",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-16",
-    "period": 2,
-    "courses": "後期履修ガイダンス(共通部分はオンライン)",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-16",
-    "period": 3,
-    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
-    "room": "N95:301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-16",
-    "period": 4,
-    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
-    "room": "N95:301",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-17",
-    "period": 1,
-    "courses": "看護実践と研究成果の活用　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-17",
-    "period": 2,
-    "courses": "成人看護援助論Ⅲ　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-17",
-    "period": 3,
-    "courses": "国際看護論　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-20",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "海の日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-21",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-21",
-    "period": 3,
-    "courses": "英語Ⅴ　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-21",
-    "period": 4,
-    "courses": "地域･在宅看護学実践論　本試験",
-    "room": "研修6･7",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-22",
-    "period": 3,
-    "courses": "精神看護援助論　本試験",
-    "room": 202,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-22",
-    "period": 4,
-    "courses": "看護教育論　本試験",
-    "room": 202,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-23",
-    "period": 1,
-    "courses": "成人看護援助論Ⅲ　実技試験",
-    "room": "基礎実・成人実・101･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-23",
-    "period": 2,
-    "courses": "成人看護援助論Ⅲ　実技試験",
-    "room": "基礎実・成人実・101･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-23",
-    "period": 3,
-    "courses": "成人看護援助論Ⅲ　実技試験",
-    "room": "基礎実・成人実・101･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-23",
-    "period": 4,
-    "courses": "成人看護援助論Ⅲ　実技試験",
-    "room": "基礎実・成人実・101･201",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-24",
-    "period": 1,
-    "courses": "周産期看護　本試験",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-24",
-    "period": 2,
-    "courses": "老年看護援助論　本試験",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-24",
-    "period": 3,
-    "courses": "第２回領域別実習オリエンテーション",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-24",
-    "period": 4,
-    "courses": "第２回領域別実習オリエンテーション",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-27",
-    "period": 2,
-    "courses": "看護実践と研究成果の活用　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-27",
-    "period": 3,
-    "courses": "地域･在宅看護学実践論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-28",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "後期必修科目_x000D_\n履修登録期限"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-28",
-    "period": 2,
-    "courses": "小児看護援助論Ⅱ　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-28",
-    "period": 3,
-    "courses": "国際関係論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-28",
-    "period": 4,
-    "courses": "国試対策基礎学力テスト",
-    "room": "大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-29",
-    "period": 1,
-    "courses": "英語Ⅴ　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-29",
-    "period": 2,
-    "courses": "国際看護論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-30",
-    "period": 1,
-    "courses": "成人看護援助論Ⅲ　追再試（筆記）",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-30",
-    "period": 2,
-    "courses": "精神看護援助論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-30",
-    "period": 3,
-    "courses": "老年看護援助論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-31",
-    "period": 1,
-    "courses": "成人看護援助論Ⅲ　追再試（実技）",
-    "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-31",
-    "period": 2,
-    "courses": "周産期看護　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-31",
-    "period": 3,
-    "courses": "看護教育論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-08-03",
-    "period": 2,
-    "courses": "国試対策基礎学力テスト　追･再試/補講",
-    "room": 202,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-08-07",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オープンキャンパス"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-08-08",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "オープンキャンパス"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-08-11",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "山の日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-07",
-    "period": 1,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-07",
-    "period": 2,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-07",
-    "period": 3,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-07",
-    "period": 4,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-08",
-    "period": 1,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-08",
-    "period": 2,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-08",
-    "period": 3,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-08",
-    "period": 4,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-09",
-    "period": 1,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-09",
-    "period": 2,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-09",
-    "period": 3,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-09",
-    "period": 4,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-10",
-    "period": 1,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-10",
-    "period": 2,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-10",
-    "period": 3,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-10",
-    "period": 4,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-11",
-    "period": 1,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-11",
-    "period": 2,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-11",
-    "period": 3,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-11",
-    "period": 4,
-    "courses": "地域・在宅看護学実習事前オリエンテーション",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-14",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-14",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-14",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-14",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-14",
-    "period": 5,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-15",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-15",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-15",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-15",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-16",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-16",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-16",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-16",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-17",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-17",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-17",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-17",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-17",
-    "period": 5,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-18",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-18",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-18",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-18",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-18",
-    "period": 5,
-    "courses": "領域別実習",
-    "room": "老Ⅰ:大講義室",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-21",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "敬老の日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-22",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "国民の休日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-23",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "秋分の日"
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-24",
-    "period": 1,
-    "courses": "後期授業ガイダンス",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-24",
-    "period": 2,
-    "courses": "国際看護学実習Ⅱ報告会",
-    "room": 301,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-28",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-28",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-28",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-28",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-29",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-29",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-29",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-29",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-30",
-    "period": 1,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-30",
-    "period": 2,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-30",
-    "period": 3,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-09-30",
-    "period": 4,
-    "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
     "grade": "1年",
     "date": "2026-04-03",
     "period": 0,
@@ -8094,6 +5238,2862 @@
     "courses": "",
     "room": "",
     "comment": "秋分の日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-02",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オリエンテーション期間"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-02",
+    "period": 2,
+    "courses": "履修/学生生活/キャリアガイダンス",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-02",
+    "period": 3,
+    "courses": "教科書販売",
+    "room": "講堂前ホール",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-02",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-03",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オリエンテーション期間"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-03",
+    "period": 1,
+    "courses": "地域･在宅看護学実践論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-03",
+    "period": 2,
+    "courses": "第1回領域別実習オリエンテーション",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-03",
+    "period": 3,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-03",
+    "period": 4,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-06",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オリエンテーション期間"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-06",
+    "period": 2,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-06",
+    "period": 3,
+    "courses": "防犯･防災教室",
+    "room": "講堂",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-06",
+    "period": 4,
+    "courses": "チューター別グループ面談\n校内見学",
+    "room": "各室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-07",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オリエンテーション期間"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-07",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-07",
+    "period": 2,
+    "courses": "3･4年合同グループワーク",
+    "room": "アリーナ",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-07",
+    "period": 3,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-07",
+    "period": 4,
+    "courses": "健康診断",
+    "room": "101～103･自習室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-08",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オリエンテーション期間"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-09",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "入学式･25周年記念式典"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-10",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "前期 必修･選択_x000D_\n履修登録期限"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-10",
+    "period": 1,
+    "courses": "周産期看護",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-10",
+    "period": 2,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-10",
+    "period": 3,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-10",
+    "period": 4,
+    "courses": "新入生歓迎会･サークル紹介",
+    "room": "アリーナ･大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-13",
+    "period": 1,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-13",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-13",
+    "period": 3,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-13",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-14",
+    "period": 1,
+    "courses": "癒しの科学",
+    "room": "成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-14",
+    "period": 2,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-14",
+    "period": 3,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-14",
+    "period": 4,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-15",
+    "period": 1,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-15",
+    "period": 2,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-15",
+    "period": 3,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-15",
+    "period": 4,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-16",
+    "period": 1,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-16",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-16",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-16",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-17",
+    "period": 1,
+    "courses": "地域･在宅看護学実践論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-17",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-17",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-17",
+    "period": 4,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-20",
+    "period": 1,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-20",
+    "period": 2,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-20",
+    "period": 3,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-20",
+    "period": 4,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-21",
+    "period": 1,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-21",
+    "period": 2,
+    "courses": "周産期看護",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-21",
+    "period": 3,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-21",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-22",
+    "period": 1,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-22",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-22",
+    "period": 3,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-22",
+    "period": 4,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-23",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "1・2限政策・統合オリ"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-23",
+    "period": 1,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-23",
+    "period": 2,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-23",
+    "period": 3,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-23",
+    "period": 4,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-24",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-24",
+    "period": 2,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-24",
+    "period": 3,
+    "courses": "地域･在宅看護学実践論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-24",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-27",
+    "period": 1,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-27",
+    "period": 2,
+    "courses": "成人看護援助論Ⅲ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-27",
+    "period": 3,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-27",
+    "period": 4,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-28",
+    "period": 1,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-28",
+    "period": 2,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-28",
+    "period": 3,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-28",
+    "period": 4,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-29",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "昭和の日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-30",
+    "period": 1,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-30",
+    "period": 2,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-30",
+    "period": 3,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-04-30",
+    "period": 4,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-01",
+    "period": 1,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-01",
+    "period": 2,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-01",
+    "period": 3,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-01",
+    "period": 4,
+    "courses": "癒しの科学",
+    "room": "成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-03",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "憲法記念日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-04",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "みどりの日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-05",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "こどもの日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-06",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "振替休日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-07",
+    "period": 1,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-07",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-07",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "301･成人実･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-07",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "301･成人実･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-08",
+    "period": 1,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-08",
+    "period": 2,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-08",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-08",
+    "period": 4,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-10",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "看護の日\nミニオープンキャンパス"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-11",
+    "period": 1,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-11",
+    "period": 2,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-11",
+    "period": 3,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-11",
+    "period": 4,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-12",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "★成人看護援助論Ⅲ模擬患者控室で1～2限も在宅実使います"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-12",
+    "period": 1,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-12",
+    "period": 2,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-12",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
+    "room": "成人実･在宅実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-12",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
+    "room": "成人実･在宅実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-13",
+    "period": 1,
+    "courses": "精神看護援助論\n(コミュニケーション演習)",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-13",
+    "period": 2,
+    "courses": "精神看護援助論\n(コミュニケーション演習)",
+    "room": "301･302･303･203･204･205",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-13",
+    "period": 3,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-13",
+    "period": 4,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-14",
+    "period": 1,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-14",
+    "period": 2,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-14",
+    "period": 3,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-14",
+    "period": 4,
+    "courses": "地域･在宅看護学実践論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-15",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "幼稚園実習",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-15",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "幼稚園実習",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-15",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-15",
+    "period": 4,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-18",
+    "period": 1,
+    "courses": "精神看護援助論\n(看護過程演習)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-18",
+    "period": 2,
+    "courses": "精神看護援助論\n(看護過程演習)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-18",
+    "period": 3,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-18",
+    "period": 4,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-19",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-19",
+    "period": 2,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-19",
+    "period": 3,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-19",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-20",
+    "period": 1,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-20",
+    "period": 2,
+    "courses": "看護倫理",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-21",
+    "period": 1,
+    "courses": "看護と安全",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-21",
+    "period": 2,
+    "courses": "地域･在宅看護学実践論（看護過程演習①）",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-21",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-21",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-22",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-22",
+    "period": 2,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-22",
+    "period": 3,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-22",
+    "period": 4,
+    "courses": "災害時初動対応訓練",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-25",
+    "period": 2,
+    "courses": "癒しの科学",
+    "room": "成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-25",
+    "period": 3,
+    "courses": "癒しの科学",
+    "room": "成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-25",
+    "period": 4,
+    "courses": "癒しの科学",
+    "room": "成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-26",
+    "period": 1,
+    "courses": "政策医療看護論Ⅰ\n習田看護課長講義コマ",
+    "room": "講堂",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-26",
+    "period": 2,
+    "courses": "政策医療看護論Ⅰ\n習田看護課長講義コマ",
+    "room": "講堂",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-26",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-26",
+    "period": 4,
+    "courses": "周産期看護",
+    "room": "母小実・基礎実･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-26",
+    "period": 5,
+    "courses": "成育の抗体価・ワクチン接種の書類作成の説明",
+    "room": 202,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-27",
+    "period": 1,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-27",
+    "period": 2,
+    "courses": "国際関係論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-27",
+    "period": 3,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-27",
+    "period": 4,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-28",
+    "period": 1,
+    "courses": "地域･在宅看護学実践論（看護過程演習②GW）",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-28",
+    "period": 2,
+    "courses": "地域･在宅看護学実践論（看護過程演習③GW）",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-28",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-28",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-29",
+    "period": 1,
+    "courses": "老年看護援助論",
+    "room": "基礎実・成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-29",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": "基礎実・成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-29",
+    "period": 3,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-05-29",
+    "period": 4,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-01",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "★成人看護援助論Ⅲ模擬患者控室で1限も在宅実使います"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-01",
+    "period": 1,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-01",
+    "period": 2,
+    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
+    "room": "基礎実･成人実･102･202･在宅実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-01",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
+    "room": "基礎実･成人実･102･202･在宅実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-01",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ\n(模擬患者)",
+    "room": "基礎実･成人実･在宅実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-02",
+    "period": 1,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-02",
+    "period": 2,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-02",
+    "period": 3,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-03",
+    "period": 1,
+    "courses": "癒しの科学",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-03",
+    "period": 2,
+    "courses": "癒しの科学",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-03",
+    "period": 3,
+    "courses": "癒しの科学",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-04",
+    "period": 1,
+    "courses": "地域･在宅看護学実践論（家庭訪問演習AB）",
+    "room": "在宅実･101",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-04",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": 101,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-04",
+    "period": 3,
+    "courses": "地域･在宅看護学実践論（家庭訪問演習CD）",
+    "room": "在宅実･103",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-05",
+    "period": 1,
+    "courses": "地域･在宅看護学実践論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-05",
+    "period": 2,
+    "courses": "看護倫理",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-05",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-05",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-08",
+    "period": 1,
+    "courses": "英語Ⅴ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-08",
+    "period": 2,
+    "courses": "英語Ⅴ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-08",
+    "period": 3,
+    "courses": "地域･在宅看護学実践論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-08",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-09",
+    "period": 2,
+    "courses": "看護実践と研究成果の活用",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-09",
+    "period": 3,
+    "courses": "看護教育論",
+    "room": 201,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-09",
+    "period": 4,
+    "courses": "周産期看護",
+    "room": 201,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-10",
+    "period": 1,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-10",
+    "period": 2,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-11",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "前期試験①の追再試は空きコマで調整"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-11",
+    "period": 1,
+    "courses": "看護倫理　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-11",
+    "period": 2,
+    "courses": "看護と安全　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-12",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "前期試験①の追再試は空きコマで調整"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-12",
+    "period": 2,
+    "courses": "国際関係論　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-15",
+    "period": 1,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-15",
+    "period": 2,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-15",
+    "period": 3,
+    "courses": "看護教育論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-15",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ\n(循セン看護部長)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-16",
+    "period": 2,
+    "courses": "政策医療看護論Ⅰ\n(がん中看護部長)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-16",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-16",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-18",
+    "period": 1,
+    "courses": "地域･在宅看護学実践論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-18",
+    "period": 2,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-18",
+    "period": 3,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-18",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ\n(NCNP 中村看護部長)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-19",
+    "period": 1,
+    "courses": "精神看護援助論\n(看護過程発表準備)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-19",
+    "period": 2,
+    "courses": "精神看護援助論\n(看護過程発表準備)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-19",
+    "period": 3,
+    "courses": "地域･在宅看護学実践論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-19",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ\n（がん東 看護部長）",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-22",
+    "period": 1,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-22",
+    "period": 2,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-22",
+    "period": 3,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-22",
+    "period": 4,
+    "courses": "老年看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-23",
+    "period": 1,
+    "courses": "周産期看護",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-23",
+    "period": 2,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-23",
+    "period": 3,
+    "courses": "政策医療看護論Ⅰ\n(GWコマ)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-23",
+    "period": 4,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-24",
+    "period": 2,
+    "courses": "老年看護援助論\n(病院見学オリエンテーション)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-24",
+    "period": 3,
+    "courses": "地域･在宅看護学実践論",
+    "room": "成人実･在宅実･101",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-24",
+    "period": 4,
+    "courses": "地域･在宅看護学実践論",
+    "room": "成人実･在宅実･101",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-25",
+    "period": 2,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-25",
+    "period": 3,
+    "courses": "小児看護援助論Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-25",
+    "period": 4,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-25",
+    "period": 5,
+    "courses": "看護倫理　追再試",
+    "room": 302,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-26",
+    "period": 1,
+    "courses": "政策医療看護論Ⅰ\n(成育 萬看護部長講義)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-26",
+    "period": 2,
+    "courses": "地域･在宅看護学実践論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-29",
+    "period": 3,
+    "courses": "看護教育論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-29",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ\n(NCGM看護部長)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-30",
+    "period": 1,
+    "courses": "国際看護論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-30",
+    "period": 2,
+    "courses": "政策医療看護論Ⅰ\n(国府台 宮崎看護部長)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-30",
+    "period": 3,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-30",
+    "period": 4,
+    "courses": "英語Ⅴ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-02",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-02",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-02",
+    "period": 3,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-03",
+    "period": 2,
+    "courses": "政策医療看護論Ⅰ\n(長寿医療センター看護部長)",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-03",
+    "period": 3,
+    "courses": "周産期看護",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-03",
+    "period": 4,
+    "courses": "看護実践と研究成果の活用",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-06",
+    "period": 2,
+    "courses": "国際看護論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-06",
+    "period": 3,
+    "courses": "看護実践と研究成果の活用",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-06",
+    "period": 4,
+    "courses": "政策医療看護論Ⅰ",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-07",
+    "period": 1,
+    "courses": "精神看護援助論\n（看護過程成果発表）",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-07",
+    "period": 2,
+    "courses": "精神看護援助論\n（看護過程成果発表）",
+    "room": "301･302･303",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-07",
+    "period": 3,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-07",
+    "period": 4,
+    "courses": "看護教育論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-09",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
+    "room": "母小実･301･204･205",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-09",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
+    "room": "母小実･301･204･205",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-09",
+    "period": 3,
+    "courses": "精神看護援助論",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-09",
+    "period": 4,
+    "courses": "成育の抗体価・ワクチン接種の書類の提出",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-10",
+    "period": 1,
+    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
+    "room": "母小実･301･204･205",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-10",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ\n(看護技術演習)",
+    "room": "母小実･301･204･205",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-10",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-13",
+    "period": 1,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-13",
+    "period": 2,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-13",
+    "period": 3,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-13",
+    "period": 4,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-14",
+    "period": 1,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-14",
+    "period": 2,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-14",
+    "period": 3,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-14",
+    "period": 4,
+    "courses": "老年看護援助論\n(NCGG病院見学)",
+    "room": "NCGG",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-15",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "1限は空けておく\n(前日がNCGG）"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-15",
+    "period": 2,
+    "courses": "老年看護援助論",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-15",
+    "period": 3,
+    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
+    "room": "N95:301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-15",
+    "period": 4,
+    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
+    "room": "N95:301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-16",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "後期履修ガイダンス_x000D_\n(全学年2限、共通説明部分はオンライン)"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-16",
+    "period": 1,
+    "courses": "成人看護学実習Ⅱオリ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-16",
+    "period": 2,
+    "courses": "後期履修ガイダンス(共通部分はオンライン)",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-16",
+    "period": 3,
+    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
+    "room": "N95:301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-16",
+    "period": 4,
+    "courses": "N95マスクフィットテスト/地域・在宅看護学実習事前課題",
+    "room": "N95:301",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-17",
+    "period": 1,
+    "courses": "看護実践と研究成果の活用　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-17",
+    "period": 2,
+    "courses": "成人看護援助論Ⅲ　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-17",
+    "period": 3,
+    "courses": "国際看護論　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-20",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "海の日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-21",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-21",
+    "period": 3,
+    "courses": "英語Ⅴ　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-21",
+    "period": 4,
+    "courses": "地域･在宅看護学実践論　本試験",
+    "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-22",
+    "period": 3,
+    "courses": "精神看護援助論　本試験",
+    "room": 202,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-22",
+    "period": 4,
+    "courses": "看護教育論　本試験",
+    "room": 202,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-23",
+    "period": 1,
+    "courses": "成人看護援助論Ⅲ　実技試験",
+    "room": "基礎実・成人実・101･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-23",
+    "period": 2,
+    "courses": "成人看護援助論Ⅲ　実技試験",
+    "room": "基礎実・成人実・101･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-23",
+    "period": 3,
+    "courses": "成人看護援助論Ⅲ　実技試験",
+    "room": "基礎実・成人実・101･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-23",
+    "period": 4,
+    "courses": "成人看護援助論Ⅲ　実技試験",
+    "room": "基礎実・成人実・101･201",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-24",
+    "period": 1,
+    "courses": "周産期看護　本試験",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-24",
+    "period": 2,
+    "courses": "老年看護援助論　本試験",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-24",
+    "period": 3,
+    "courses": "第２回領域別実習オリエンテーション",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-24",
+    "period": 4,
+    "courses": "第２回領域別実習オリエンテーション",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-27",
+    "period": 2,
+    "courses": "看護実践と研究成果の活用　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-27",
+    "period": 3,
+    "courses": "地域･在宅看護学実践論　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-28",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "後期必修科目_x000D_\n履修登録期限"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-28",
+    "period": 2,
+    "courses": "小児看護援助論Ⅱ　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-28",
+    "period": 3,
+    "courses": "国際関係論　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-28",
+    "period": 4,
+    "courses": "国試対策基礎学力テスト",
+    "room": "大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-29",
+    "period": 1,
+    "courses": "英語Ⅴ　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-29",
+    "period": 2,
+    "courses": "国際看護論　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-30",
+    "period": 1,
+    "courses": "成人看護援助論Ⅲ　追再試（筆記）",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-30",
+    "period": 2,
+    "courses": "精神看護援助論　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-30",
+    "period": 3,
+    "courses": "老年看護援助論　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-31",
+    "period": 1,
+    "courses": "成人看護援助論Ⅲ　追再試（実技）",
+    "room": "成人実",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-31",
+    "period": 2,
+    "courses": "周産期看護　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-07-31",
+    "period": 3,
+    "courses": "看護教育論　追再試",
+    "room": 303,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-08-03",
+    "period": 2,
+    "courses": "国試対策基礎学力テスト　追･再試/補講",
+    "room": 202,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-08-07",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オープンキャンパス"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-08-08",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "オープンキャンパス"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-08-11",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "山の日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-07",
+    "period": 1,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-07",
+    "period": 2,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-07",
+    "period": 3,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-07",
+    "period": 4,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-08",
+    "period": 1,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-08",
+    "period": 2,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-08",
+    "period": 3,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-08",
+    "period": 4,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-09",
+    "period": 1,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-09",
+    "period": 2,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-09",
+    "period": 3,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-09",
+    "period": 4,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-10",
+    "period": 1,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-10",
+    "period": 2,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-10",
+    "period": 3,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-10",
+    "period": 4,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-11",
+    "period": 1,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-11",
+    "period": 2,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-11",
+    "period": 3,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-11",
+    "period": 4,
+    "courses": "地域・在宅看護学実習事前オリエンテーション",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-14",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-14",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-14",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-14",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-14",
+    "period": 5,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-15",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-15",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-15",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-15",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-16",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-16",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-16",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-16",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-17",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-17",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-17",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-17",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-17",
+    "period": 5,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-18",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-18",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-18",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-18",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-18",
+    "period": 5,
+    "courses": "領域別実習",
+    "room": "老Ⅰ:大講義室",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-21",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "敬老の日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-22",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "国民の休日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-23",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "秋分の日"
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-24",
+    "period": 1,
+    "courses": "後期授業ガイダンス",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-24",
+    "period": 2,
+    "courses": "国際看護学実習Ⅱ報告会",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-28",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-28",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-28",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-28",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-29",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-29",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-29",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-29",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-30",
+    "period": 1,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-30",
+    "period": 2,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-30",
+    "period": 3,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-09-30",
+    "period": 4,
+    "courses": "領域別実習",
+    "room": "",
+    "comment": ""
   },
   {
     "grade": "4年・助産",
