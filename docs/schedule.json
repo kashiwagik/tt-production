@@ -1235,7 +1235,7 @@
     "grade": "1年",
     "date": "2026-06-03",
     "period": 3,
-    "courses": "人体の構造と機能Ⅱ",
+    "courses": "生命科学",
     "room": 101,
     "comment": ""
   },
@@ -1276,7 +1276,7 @@
     "date": "2026-06-05",
     "period": 1,
     "courses": "振替授業調整中",
-    "room": "",
+    "room": 101,
     "comment": ""
   },
   {
@@ -1284,14 +1284,14 @@
     "date": "2026-06-05",
     "period": 2,
     "courses": "振替授業調整中",
-    "room": "",
+    "room": 101,
     "comment": ""
   },
   {
     "grade": "1年",
     "date": "2026-06-05",
     "period": 3,
-    "courses": "生命科学",
+    "courses": "人体の構造と機能Ⅱ",
     "room": 101,
     "comment": ""
   },
@@ -4099,8 +4099,8 @@
     "grade": "2年",
     "date": "2026-06-05",
     "period": 2,
-    "courses": "空きコマ",
-    "room": "",
+    "courses": "振替授業調整中",
+    "room": 201,
     "comment": ""
   },
   {
@@ -4837,6 +4837,14 @@
     "period": 4,
     "courses": "英語Ⅲ(CD)",
     "room": 201,
+    "comment": ""
+  },
+  {
+    "grade": "2年",
+    "date": "2026-07-15",
+    "period": 2,
+    "courses": "疾病･病態論Ⅱ\n(西村先生)",
+    "room": 101,
     "comment": ""
   },
   {
