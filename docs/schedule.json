@@ -1274,6 +1274,22 @@
   {
     "grade": "1年",
     "date": "2026-06-05",
+    "period": 1,
+    "courses": "振替授業調整中",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "1年",
+    "date": "2026-06-05",
+    "period": 2,
+    "courses": "振替授業調整中",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "1年",
+    "date": "2026-06-05",
     "period": 3,
     "courses": "生命科学",
     "room": 101,
