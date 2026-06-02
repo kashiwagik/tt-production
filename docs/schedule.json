@@ -1274,22 +1274,6 @@
   {
     "grade": "1年",
     "date": "2026-06-05",
-    "period": 1,
-    "courses": "振替授業調整中",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
-    "date": "2026-06-05",
-    "period": 2,
-    "courses": "振替授業調整中",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
-    "date": "2026-06-05",
     "period": 3,
     "courses": "人体の構造と機能Ⅱ",
     "room": 101,
@@ -4723,6 +4707,14 @@
     "grade": "2年",
     "date": "2026-07-08",
     "period": 3,
+    "courses": "日本の伝統芸術",
+    "room": 201,
+    "comment": ""
+  },
+  {
+    "grade": "2年",
+    "date": "2026-07-08",
+    "period": 4,
     "courses": "日本の伝統芸術",
     "room": 201,
     "comment": ""
