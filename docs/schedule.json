@@ -6946,6 +6946,14 @@
   {
     "grade": "3年",
     "date": "2026-06-25",
+    "period": 1,
+    "courses": "看護と安全　追再試",
+    "room": 103,
+    "comment": ""
+  },
+  {
+    "grade": "3年",
+    "date": "2026-06-25",
     "period": 2,
     "courses": "看護教育論",
     "room": 301,
