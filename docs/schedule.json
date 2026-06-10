@@ -19553,6 +19553,14 @@
   },
   {
     "grade": "M2",
+    "date": "2026-07-08",
+    "period": 5,
+    "courses": "感染管理看護学演習A-Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "M2",
     "date": "2026-07-09",
     "period": 1,
     "courses": "長寿看護学演習A-Ⅱ",
@@ -20262,6 +20270,14 @@
     "courses": "",
     "room": "",
     "comment": "研究課程部入試（一次募集）"
+  },
+  {
+    "grade": "M2",
+    "date": "2026-09-09",
+    "period": 5,
+    "courses": "感染管理看護学演習A-Ⅱ",
+    "room": 301,
+    "comment": ""
   },
   {
     "grade": "M2",
@@ -40585,6 +40601,14 @@
   },
   {
     "grade": "M2",
+    "date": "2026-10-14",
+    "period": 5,
+    "courses": "感染管理看護学演習A-Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "M2",
     "date": "2026-10-15",
     "period": 1,
     "courses": "特別研究",
@@ -41225,6 +41249,14 @@
   },
   {
     "grade": "M2",
+    "date": "2026-11-11",
+    "period": 5,
+    "courses": "感染管理看護学演習A-Ⅱ",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "M2",
     "date": "2026-11-12",
     "period": 1,
     "courses": "特別研究",
@@ -41845,6 +41877,14 @@
     "period": 4,
     "courses": "特別研究",
     "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "M2",
+    "date": "2026-12-09",
+    "period": 5,
+    "courses": "感染管理看護学演習A-Ⅱ",
+    "room": 301,
     "comment": ""
   },
   {
