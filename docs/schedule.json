@@ -1642,17 +1642,9 @@
   {
     "grade": "1年",
     "date": "2026-06-23",
-    "period": 1,
-    "courses": "英語Ⅰ（C）",
-    "room": 102,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
-    "date": "2026-06-23",
     "period": 2,
-    "courses": "英語Ⅰ(A)",
-    "room": 102,
+    "courses": "英語Ⅰ(AC)",
+    "room": 101,
     "comment": ""
   },
   {
