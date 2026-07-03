@@ -1977,14 +1977,6 @@
   },
   {
     "grade": "1年",
-    "date": "2026-07-08",
-    "period": 4,
-    "courses": "遺伝と健康 追再試",
-    "room": 102,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2026-07-09",
     "period": 1,
     "courses": "生活援助論Ⅰ\n(ABCD)",
@@ -2757,6 +2749,2662 @@
     "period": 4,
     "courses": "基礎科学実験実習①",
     "room": "301･実験室1･実験室2",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-01",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-02",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱオリエンテーション①",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-02",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "履修/学生生活/キャリアガイダンス",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-02",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "教科書販売",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-02",
+    "period": 4,
+    "courses": "講堂前ホール",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-03",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-03",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-03",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-03",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-03",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-04",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-05",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-06",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-06",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "防犯･防災教室",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-06",
+    "period": 4,
+    "courses": "講堂",
+    "room": "チューター別グループ面談\n校内見学",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-06",
+    "period": 5,
+    "courses": "各室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-07",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-07",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "3･4年合同グループワーク",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-07",
+    "period": 3,
+    "courses": "アリーナ",
+    "room": "健康診断",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-07",
+    "period": 4,
+    "courses": "101～103･自習室",
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-07",
+    "period": 5,
+    "courses": 201,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-08",
+    "period": 1,
+    "courses": "4年",
+    "room": "GTEC(AB)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-08",
+    "period": 2,
+    "courses": 301,
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-08",
+    "period": 3,
+    "courses": 301,
+    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-08",
+    "period": 4,
+    "courses": 301,
+    "room": "GTEC(CD)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-08",
+    "period": 5,
+    "courses": 301,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-09",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-10",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-10",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-10",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-10",
+    "period": 4,
+    "courses": 201,
+    "room": "新入生歓迎会･サークル紹介",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-10",
+    "period": 5,
+    "courses": "アリーナ･大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-11",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-12",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-13",
+    "period": 1,
+    "courses": "4年",
+    "room": "卒業研究Ⅰ\n(図書館講座・小島先生②)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-13",
+    "period": 2,
+    "courses": 201,
+    "room": "卒業研究Ⅰ\n(図書館講座･小島先生③)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-13",
+    "period": 3,
+    "courses": 201,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-14",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-14",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-14",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-14",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-15",
+    "period": 1,
+    "courses": "4年",
+    "room": "GTEC未受検者　追試験",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-15",
+    "period": 2,
+    "courses": 101,
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-15",
+    "period": 4,
+    "courses": 101,
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-15",
+    "period": 5,
+    "courses": 101,
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-16",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-17",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-17",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-17",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "感染症看護論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-17",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-17",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-18",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-19",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-20",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": 202
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-20",
+    "period": 1,
+    "courses": "4年",
+    "room": "卒業研究Ⅰ\n（柏木先生講義)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-20",
+    "period": 2,
+    "courses": 201,
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-20",
+    "period": 3,
+    "courses": 201,
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-20",
+    "period": 4,
+    "courses": 201,
+    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-20",
+    "period": 5,
+    "courses": 202,
+    "room": "国際看護学実習Ⅱオリエンテーション②",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-21",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-22",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-23",
+    "period": 1,
+    "courses": "4年",
+    "room": "統合･政策実習オリエンテーション",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-23",
+    "period": 2,
+    "courses": "大講義室･102･103･203･204･205･302･303",
+    "room": "統合･政策実習オリエンテーション",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-23",
+    "period": 3,
+    "courses": "大講義室･102･103･203･204･205･302･303",
+    "room": "感染症看護論\n(俣野理事特別講義)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-23",
+    "period": 4,
+    "courses": "講堂",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-23",
+    "period": 5,
+    "courses": "講堂",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-24",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-24",
+    "period": 4,
+    "courses": "NCGMトラベルCL",
+    "room": "A肝①･破傷風･狂犬病①　予防接種",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-24",
+    "period": 5,
+    "courses": "NCGMトラベルCL",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-25",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-26",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-27",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-27",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-27",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "感染症看護論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-27",
+    "period": 4,
+    "courses": 301,
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-27",
+    "period": 5,
+    "courses": 301,
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-28",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-28",
+    "period": 4,
+    "courses": 201,
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-28",
+    "period": 5,
+    "courses": 201,
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-29",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-04-30",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-01",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-01",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "感染症看護論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-01",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-01",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-01",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-02",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-03",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-04",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-05",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-06",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-07",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-08",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-08",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "感染症看護論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-08",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-08",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-08",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-09",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-10",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-11",
+    "period": 1,
+    "courses": "4年",
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-11",
+    "period": 3,
+    "courses": "講堂",
+    "room": "感染症看護論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-11",
+    "period": 4,
+    "courses": 301,
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-12",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-12",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-12",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-13",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-14",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-14",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-14",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-14",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-15",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-15",
+    "period": 2,
+    "courses": 301,
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-15",
+    "period": 3,
+    "courses": 301,
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-15",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-16",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-17",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-18",
+    "period": 1,
+    "courses": "4年",
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-18",
+    "period": 4,
+    "courses": 301,
+    "room": "感染症看護論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-18",
+    "period": 5,
+    "courses": "301･302･303",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-19",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-19",
+    "period": 3,
+    "courses": 201,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-20",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-20",
+    "period": 2,
+    "courses": 201,
+    "room": "国際看護活動論",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-20",
+    "period": 3,
+    "courses": 201,
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-21",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-22",
+    "period": 1,
+    "courses": "4年",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-22",
+    "period": 2,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅳ(成育看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-22",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅲ(精神看護)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-22",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "災害時初動対応訓練",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-23",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-24",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-25",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-25",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅰ(がん看護)　前期試験",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-25",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "国試対策基礎学力テスト",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-25",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-26",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-26",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "高度先駆的医療看護Ⅱ(循環器病看護)　前期試験",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-26",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-27",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-28",
+    "period": 1,
+    "courses": "4年",
+    "room": "国試全国模試",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-28",
+    "period": 2,
+    "courses": "研修6･7",
+    "room": "国試全国模試",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-28",
+    "period": 3,
+    "courses": "研修6･7",
+    "room": "国試全国模試",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-28",
+    "period": 4,
+    "courses": "研修6･7",
+    "room": "国試全国模試",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-28",
+    "period": 5,
+    "courses": "研修6･7",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-29",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-29",
+    "period": 4,
+    "courses": "NCGMトラベルCL",
+    "room": "A肝②･狂犬病②　予防接種",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-29",
+    "period": 5,
+    "courses": "NCGMトラベルCL",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-30",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-05-31",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-01",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-01",
+    "period": 4,
+    "courses": 301,
+    "room": "N95マスクフィットテスト",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-01",
+    "period": 5,
+    "courses": 301,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-02",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-02",
+    "period": 3,
+    "courses": 103,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-03",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-04",
+    "period": 1,
+    "courses": "4年",
+    "room": "N95マスクフィットテスト",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-04",
+    "period": 2,
+    "courses": 301,
+    "room": "N95マスクフィットテスト",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-04",
+    "period": 3,
+    "courses": 301,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-05",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "NCGM:301･302･303･304･演31･演32　"
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-05",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-05",
+    "period": 2,
+    "courses": "NCGM:301･302･303･304･演31･演32　老年:臨床2　がん東：205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-05",
+    "period": 3,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:研修6　がん東：205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-05",
+    "period": 4,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん東:成人実･205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-05",
+    "period": 5,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん東:成人実･205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-06",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-07",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-08",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-08",
+    "period": 2,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん中：成人実　がん東：研修7　成育:203　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-08",
+    "period": 3,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん中：成人実　がん東：研修7　成育:203　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-08",
+    "period": 4,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2･在宅実・成人実　がん東:研修7　成育:203　がん中：研修1　精神：102･103　国循：研修6",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-08",
+    "period": 5,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2･在宅実・成人実　がん東：研修7　成育:203　がん中:研修1　精神：102･103　国循：研修6",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-09",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": "NCGM:301･302･303･304･演31･演32　長寿:102"
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-09",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-09",
+    "period": 2,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102･在宅実　がん東:成人実･205　成育:母小実　がん中:研修1　精神：臨床看護研究室４･103",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-09",
+    "period": 3,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102･在宅実　がん東:成人実･205　成育:母小実　がん中:研修1　精神：臨床看護研究室４･103",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-09",
+    "period": 4,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102　がん東：205　がん中:研修1　精神：臨床看護研究室４･103　成育：203",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-09",
+    "period": 5,
+    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102　がん東：205　がん中:研修1　精神：臨床看護研究室４･103　成育：203",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-10",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-11",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-12",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-13",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-14",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-15",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-16",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-17",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-18",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-19",
+    "period": 1,
+    "courses": "4年",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-19",
+    "period": 2,
+    "courses": "NCGM:301･302･303･304･演31･演32　精神：102･103 成育:203　国循：研修1　精神：102･103\nがん東：204",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-19",
+    "period": 3,
+    "courses": "NCGM:301･302･303･304･演31･演32　成育:203　精神：102･103　国循：研修1　精神：102･103\nがん東:204",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-19",
+    "period": 4,
+    "courses": "NCGM:301･302･303･304･演31･演32　成育:203　精神：102･103　国循：研修1　精神：102･103\nがん東:204",
+    "room": "看護学統合演習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-19",
+    "period": 5,
+    "courses": "NCGM:301･302･303･304･演31･演32　成育:203　精神：102･103　国循：研修1　精神：102･103\nがん東:204",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-20",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-21",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-22",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-22",
+    "period": 3,
+    "courses": 302,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-23",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-24",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-25",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-25",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "卒業研究Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-26",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-27",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-28",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-29",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-29",
+    "period": 2,
+    "courses": "成育:202",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-29",
+    "period": 3,
+    "courses": "成育:202",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-29",
+    "period": 4,
+    "courses": "成育:母小実･202",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-29",
+    "period": 5,
+    "courses": "成育:母小実･202",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-06-30",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-01",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-02",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-02",
+    "period": 2,
+    "courses": "感染：301",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-02",
+    "period": 3,
+    "courses": "感染：301",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-03",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-04",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-05",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-06",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-06",
+    "period": 2,
+    "courses": "成育:202 がん:研修6･研修7",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-06",
+    "period": 3,
+    "courses": "成育:202 がん:研修6･研修7",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-06",
+    "period": 4,
+    "courses": "がん:研修6･研修7",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-06",
+    "period": 5,
+    "courses": "がん:研修6･研修7",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-07",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-07",
+    "period": 2,
+    "courses": "精神：102 感染：201教室,演習室21～24",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-07",
+    "period": 3,
+    "courses": "精神：102 感染：201教室,演習室21～24",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-08",
+    "period": 1,
+    "courses": "4年",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-08",
+    "period": 2,
+    "courses": "循環器：研修1",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-08",
+    "period": 3,
+    "courses": "循環器：研修1",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-08",
+    "period": 4,
+    "courses": "循環器：研修1",
+    "room": "政策医療看護学実習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-08",
+    "period": 5,
+    "courses": "循環器：研修1",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-09",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-10",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-11",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-12",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-13",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-14",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-15",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-16",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-16",
+    "period": 3,
+    "courses": "大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-17",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-18",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-19",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-20",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-21",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-21",
+    "period": 2,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-21",
+    "period": 3,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-21",
+    "period": 4,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-21",
+    "period": 5,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-22",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-22",
+    "period": 2,
+    "courses": 301,
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-22",
+    "period": 3,
+    "courses": 301,
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-22",
+    "period": 4,
+    "courses": 301,
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-22",
+    "period": 5,
+    "courses": 301,
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-23",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-23",
+    "period": 2,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-23",
+    "period": 3,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-23",
+    "period": 4,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-23",
+    "period": 5,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-24",
+    "period": 0,
+    "courses": "",
+    "room": "",
+    "comment": 301
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-24",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-24",
+    "period": 2,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-24",
+    "period": 3,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-24",
+    "period": 4,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅰ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-24",
+    "period": 5,
+    "courses": "301･302･303･304･情報処理室",
+    "room": "国際看護学実習Ⅱオリエンテーション③",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-25",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-26",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-27",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-28",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-29",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-30",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-07-31",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-01",
+    "period": 1,
+    "courses": "4年",
+    "room": "国際看護学実習Ⅱ",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-02",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-03",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-04",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-04",
+    "period": 4,
+    "courses": "大講義室",
+    "room": "国試全国必修模試",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-04",
+    "period": 5,
+    "courses": "大講義室",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-05",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-06",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-07",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-08",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-09",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-10",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-11",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-12",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-13",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-14",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-15",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-16",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-17",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-18",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-19",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-20",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-21",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-22",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-23",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-24",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-25",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-26",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-27",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-28",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-29",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-30",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-08-31",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-01",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-02",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-03",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-04",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-05",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-06",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-07",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-08",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-09",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-10",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-11",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-12",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-13",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-14",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-15",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-16",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-17",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-18",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-19",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-20",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-21",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-22",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-23",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-24",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-25",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-26",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-27",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-28",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-29",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-09-30",
+    "period": 1,
+    "courses": "4年",
+    "room": "",
     "comment": ""
   },
   {
@@ -8076,2662 +10724,6 @@
     "date": "2026-09-30",
     "period": 4,
     "courses": "領域別実習",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-01",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-02",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱオリエンテーション①",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-02",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "履修/学生生活/キャリアガイダンス",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-02",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "教科書販売",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-02",
-    "period": 4,
-    "courses": "講堂前ホール",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-03",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-03",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-03",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-03",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-03",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-04",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-05",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-06",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-06",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "防犯･防災教室",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-06",
-    "period": 4,
-    "courses": "講堂",
-    "room": "チューター別グループ面談\n校内見学",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-06",
-    "period": 5,
-    "courses": "各室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-07",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-07",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "3･4年合同グループワーク",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-07",
-    "period": 3,
-    "courses": "アリーナ",
-    "room": "健康診断",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-07",
-    "period": 4,
-    "courses": "101～103･自習室",
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-07",
-    "period": 5,
-    "courses": 201,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-08",
-    "period": 1,
-    "courses": "4年",
-    "room": "GTEC(AB)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-08",
-    "period": 2,
-    "courses": 301,
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-08",
-    "period": 3,
-    "courses": 301,
-    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-08",
-    "period": 4,
-    "courses": 301,
-    "room": "GTEC(CD)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-08",
-    "period": 5,
-    "courses": 301,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-09",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-10",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-10",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-10",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-10",
-    "period": 4,
-    "courses": 201,
-    "room": "新入生歓迎会･サークル紹介",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-10",
-    "period": 5,
-    "courses": "アリーナ･大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-11",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-12",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-13",
-    "period": 1,
-    "courses": "4年",
-    "room": "卒業研究Ⅰ\n(図書館講座・小島先生②)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-13",
-    "period": 2,
-    "courses": 201,
-    "room": "卒業研究Ⅰ\n(図書館講座･小島先生③)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-13",
-    "period": 3,
-    "courses": 201,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-14",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-14",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-14",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-14",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-15",
-    "period": 1,
-    "courses": "4年",
-    "room": "GTEC未受検者　追試験",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-15",
-    "period": 2,
-    "courses": 101,
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-15",
-    "period": 4,
-    "courses": 101,
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-15",
-    "period": 5,
-    "courses": 101,
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-16",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-17",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-17",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-17",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "感染症看護論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-17",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-17",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-18",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-19",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-20",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": 202
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-20",
-    "period": 1,
-    "courses": "4年",
-    "room": "卒業研究Ⅰ\n（柏木先生講義)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-20",
-    "period": 2,
-    "courses": 201,
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-20",
-    "period": 3,
-    "courses": 201,
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-20",
-    "period": 4,
-    "courses": 201,
-    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-20",
-    "period": 5,
-    "courses": 202,
-    "room": "国際看護学実習Ⅱオリエンテーション②",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-21",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-22",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-23",
-    "period": 1,
-    "courses": "4年",
-    "room": "統合･政策実習オリエンテーション",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-23",
-    "period": 2,
-    "courses": "大講義室･102･103･203･204･205･302･303",
-    "room": "統合･政策実習オリエンテーション",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-23",
-    "period": 3,
-    "courses": "大講義室･102･103･203･204･205･302･303",
-    "room": "感染症看護論\n(俣野理事特別講義)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-23",
-    "period": 4,
-    "courses": "講堂",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-23",
-    "period": 5,
-    "courses": "講堂",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-24",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-24",
-    "period": 4,
-    "courses": "NCGMトラベルCL",
-    "room": "A肝①･破傷風･狂犬病①　予防接種",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-24",
-    "period": 5,
-    "courses": "NCGMトラベルCL",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-25",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-26",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-27",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-27",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-27",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "感染症看護論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-27",
-    "period": 4,
-    "courses": 301,
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-27",
-    "period": 5,
-    "courses": 301,
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-28",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-28",
-    "period": 4,
-    "courses": 201,
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-28",
-    "period": 5,
-    "courses": 201,
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-29",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-04-30",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-01",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-01",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "感染症看護論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-01",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-01",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-01",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-02",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-03",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-04",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-05",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-06",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-07",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-08",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-08",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "感染症看護論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-08",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-08",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-08",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-09",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-10",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-11",
-    "period": 1,
-    "courses": "4年",
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-11",
-    "period": 3,
-    "courses": "講堂",
-    "room": "感染症看護論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-11",
-    "period": 4,
-    "courses": 301,
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-12",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-12",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅴ(長寿･地域看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-12",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-13",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-14",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-14",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-14",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-14",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-15",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-15",
-    "period": 2,
-    "courses": 301,
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-15",
-    "period": 3,
-    "courses": 301,
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-15",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-16",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-17",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-18",
-    "period": 1,
-    "courses": "4年",
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-18",
-    "period": 4,
-    "courses": 301,
-    "room": "感染症看護論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-18",
-    "period": 5,
-    "courses": "301･302･303",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-19",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-19",
-    "period": 3,
-    "courses": 201,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-20",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-20",
-    "period": 2,
-    "courses": 201,
-    "room": "国際看護活動論",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-20",
-    "period": 3,
-    "courses": 201,
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-21",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-22",
-    "period": 1,
-    "courses": "4年",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-22",
-    "period": 2,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅳ(成育看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-22",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅲ(精神看護)",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-22",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "災害時初動対応訓練",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-23",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-24",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-25",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-25",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅰ(がん看護)　前期試験",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-25",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "国試対策基礎学力テスト",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-25",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-26",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-26",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "高度先駆的医療看護Ⅱ(循環器病看護)　前期試験",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-26",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-27",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-28",
-    "period": 1,
-    "courses": "4年",
-    "room": "国試全国模試",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-28",
-    "period": 2,
-    "courses": "研修6･7",
-    "room": "国試全国模試",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-28",
-    "period": 3,
-    "courses": "研修6･7",
-    "room": "国試全国模試",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-28",
-    "period": 4,
-    "courses": "研修6･7",
-    "room": "国試全国模試",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-28",
-    "period": 5,
-    "courses": "研修6･7",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-29",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-29",
-    "period": 4,
-    "courses": "NCGMトラベルCL",
-    "room": "A肝②･狂犬病②　予防接種",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-29",
-    "period": 5,
-    "courses": "NCGMトラベルCL",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-30",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-05-31",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-01",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-01",
-    "period": 4,
-    "courses": 301,
-    "room": "N95マスクフィットテスト",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-01",
-    "period": 5,
-    "courses": 301,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-02",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-02",
-    "period": 3,
-    "courses": 103,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-03",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-04",
-    "period": 1,
-    "courses": "4年",
-    "room": "N95マスクフィットテスト",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-04",
-    "period": 2,
-    "courses": 301,
-    "room": "N95マスクフィットテスト",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-04",
-    "period": 3,
-    "courses": 301,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-05",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "NCGM:301･302･303･304･演31･演32　"
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-05",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-05",
-    "period": 2,
-    "courses": "NCGM:301･302･303･304･演31･演32　老年:臨床2　がん東：205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-05",
-    "period": 3,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:研修6　がん東：205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-05",
-    "period": 4,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん東:成人実･205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-05",
-    "period": 5,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん東:成人実･205　成育:203　がん中:研修1　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-06",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-07",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-08",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-08",
-    "period": 2,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん中：成人実　がん東：研修7　成育:203　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-08",
-    "period": 3,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2　がん中：成人実　がん東：研修7　成育:203　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-08",
-    "period": 4,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2･在宅実・成人実　がん東:研修7　成育:203　がん中：研修1　精神：102･103　国循：研修6",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-08",
-    "period": 5,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:臨床2･在宅実・成人実　がん東：研修7　成育:203　がん中:研修1　精神：102･103　国循：研修6",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-09",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": "NCGM:301･302･303･304･演31･演32　長寿:102"
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-09",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-09",
-    "period": 2,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102･在宅実　がん東:成人実･205　成育:母小実　がん中:研修1　精神：臨床看護研究室４･103",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-09",
-    "period": 3,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102･在宅実　がん東:成人実･205　成育:母小実　がん中:研修1　精神：臨床看護研究室４･103",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-09",
-    "period": 4,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102　がん東：205　がん中:研修1　精神：臨床看護研究室４･103　成育：203",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-09",
-    "period": 5,
-    "courses": "NCGM:301･302･303･304･演31･演32　長寿:102　がん東：205　がん中:研修1　精神：臨床看護研究室４･103　成育：203",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-10",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-11",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-12",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-13",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-14",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-15",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-16",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-17",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-18",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-19",
-    "period": 1,
-    "courses": "4年",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-19",
-    "period": 2,
-    "courses": "NCGM:301･302･303･304･演31･演32　精神：102･103 成育:203　国循：研修1　精神：102･103\nがん東：204",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-19",
-    "period": 3,
-    "courses": "NCGM:301･302･303･304･演31･演32　成育:203　精神：102･103　国循：研修1　精神：102･103\nがん東:204",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-19",
-    "period": 4,
-    "courses": "NCGM:301･302･303･304･演31･演32　成育:203　精神：102･103　国循：研修1　精神：102･103\nがん東:204",
-    "room": "看護学統合演習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-19",
-    "period": 5,
-    "courses": "NCGM:301･302･303･304･演31･演32　成育:203　精神：102･103　国循：研修1　精神：102･103\nがん東:204",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-20",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-21",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-22",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-22",
-    "period": 3,
-    "courses": 302,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-23",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-24",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-25",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-25",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "卒業研究Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-26",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-27",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-28",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-29",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-29",
-    "period": 2,
-    "courses": "成育:202",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-29",
-    "period": 3,
-    "courses": "成育:202",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-29",
-    "period": 4,
-    "courses": "成育:母小実･202",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-29",
-    "period": 5,
-    "courses": "成育:母小実･202",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-06-30",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-01",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-02",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-02",
-    "period": 2,
-    "courses": "感染：301",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-02",
-    "period": 3,
-    "courses": "感染：301",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-03",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-04",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-05",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-06",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-06",
-    "period": 2,
-    "courses": "成育:202 がん:研修6･研修7",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-06",
-    "period": 3,
-    "courses": "成育:202 がん:研修6･研修7",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-06",
-    "period": 4,
-    "courses": "がん:研修6･研修7",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-06",
-    "period": 5,
-    "courses": "がん:研修6･研修7",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-07",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-07",
-    "period": 2,
-    "courses": "精神：102 感染：201教室,演習室21～24",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-07",
-    "period": 3,
-    "courses": "精神：102 感染：201教室,演習室21～24",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-08",
-    "period": 1,
-    "courses": "4年",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-08",
-    "period": 2,
-    "courses": "循環器：研修1",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-08",
-    "period": 3,
-    "courses": "循環器：研修1",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-08",
-    "period": 4,
-    "courses": "循環器：研修1",
-    "room": "政策医療看護学実習",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-08",
-    "period": 5,
-    "courses": "循環器：研修1",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-09",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-10",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-11",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-12",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-13",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-14",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-15",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-16",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-16",
-    "period": 3,
-    "courses": "大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-17",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-18",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-19",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-20",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-21",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-21",
-    "period": 2,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-21",
-    "period": 3,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-21",
-    "period": 4,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-21",
-    "period": 5,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-22",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-22",
-    "period": 2,
-    "courses": 301,
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-22",
-    "period": 3,
-    "courses": 301,
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-22",
-    "period": 4,
-    "courses": 301,
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-22",
-    "period": 5,
-    "courses": 301,
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-23",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-23",
-    "period": 2,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-23",
-    "period": 3,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-23",
-    "period": 4,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-23",
-    "period": 5,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-24",
-    "period": 0,
-    "courses": "",
-    "room": "",
-    "comment": 301
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-24",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-24",
-    "period": 2,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-24",
-    "period": 3,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-24",
-    "period": 4,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅰ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-24",
-    "period": 5,
-    "courses": "301･302･303･304･情報処理室",
-    "room": "国際看護学実習Ⅱオリエンテーション③",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-25",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-26",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-27",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-28",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-29",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-30",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-07-31",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-01",
-    "period": 1,
-    "courses": "4年",
-    "room": "国際看護学実習Ⅱ",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-02",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-03",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-04",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-04",
-    "period": 4,
-    "courses": "大講義室",
-    "room": "国試全国必修模試",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-04",
-    "period": 5,
-    "courses": "大講義室",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-05",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-06",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-07",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-08",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-09",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-10",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-11",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-12",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-13",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-14",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-15",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-16",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-17",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-18",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-19",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-20",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-21",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-22",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-23",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-24",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-25",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-26",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-27",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-28",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-29",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-30",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-08-31",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-01",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-02",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-03",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-04",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-05",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-06",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-07",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-08",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-09",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-10",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-11",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-12",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-13",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-14",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-15",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-16",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-17",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-18",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-19",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-20",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-21",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-22",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-23",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-24",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-25",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-26",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-27",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-28",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-29",
-    "period": 1,
-    "courses": "4年",
-    "room": "",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-09-30",
-    "period": 1,
-    "courses": "4年",
     "room": "",
     "comment": ""
   },
