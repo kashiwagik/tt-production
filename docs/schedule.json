@@ -32780,7 +32780,15 @@
     "date": "2026-10-01",
     "period": 1,
     "courses": "4年",
-    "room": "",
+    "room": "教科書販売",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-10-01",
+    "period": 2,
+    "courses": "講堂前ロビー",
+    "room": "後期授業ガイダンス",
     "comment": ""
   },
   {
@@ -32788,14 +32796,6 @@
     "date": "2026-10-01",
     "period": 3,
     "courses": 301,
-    "room": "教科書販売",
-    "comment": ""
-  },
-  {
-    "grade": "4年・助産",
-    "date": "2026-10-01",
-    "period": 4,
-    "courses": "講堂前ロビー",
     "room": "",
     "comment": ""
   },
@@ -35018,17 +35018,17 @@
   {
     "grade": "4年",
     "date": "2026-10-01",
-    "period": 2,
-    "courses": "後期授業ガイダンス",
-    "room": 301,
+    "period": 1,
+    "courses": "教科書販売",
+    "room": "講堂前ロビー",
     "comment": ""
   },
   {
     "grade": "4年",
     "date": "2026-10-01",
-    "period": 3,
-    "courses": "教科書販売",
-    "room": "講堂前ロビー",
+    "period": 2,
+    "courses": "後期授業ガイダンス",
+    "room": 301,
     "comment": ""
   },
   {
