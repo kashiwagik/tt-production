@@ -2402,14 +2402,6 @@
   {
     "grade": "1年",
     "date": "2026-08-03",
-    "period": 2,
-    "courses": "英語Ⅰ　追再試",
-    "room": 102,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
-    "date": "2026-08-03",
     "period": 3,
     "courses": "人体の構造と機能Ⅱ　期末試験　追再試",
     "room": 102,
@@ -5163,7 +5155,7 @@
     "grade": "2年",
     "date": "2026-08-04",
     "period": 2,
-    "courses": "看護過程原論　追再試",
+    "courses": "疾病・病態論Ⅱ　追再試",
     "room": 302,
     "comment": ""
   },
@@ -7506,14 +7498,6 @@
   {
     "grade": "3年",
     "date": "2026-07-29",
-    "period": 1,
-    "courses": "英語Ⅴ　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-29",
     "period": 2,
     "courses": "国際看護論　追再試",
     "room": 303,
@@ -7549,22 +7533,6 @@
     "period": 1,
     "courses": "成人看護援助論Ⅲ　追再試（実技）",
     "room": "成人実",
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-31",
-    "period": 2,
-    "courses": "周産期看護　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-31",
-    "period": 3,
-    "courses": "看護教育論　追再試",
-    "room": 303,
     "comment": ""
   },
   {
