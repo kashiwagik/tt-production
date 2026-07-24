@@ -2251,7 +2251,7 @@
     "grade": "1年",
     "date": "2026-07-24",
     "period": 4,
-    "courses": "フランス語　追再試",
+    "courses": "フランス語　追試",
     "room": 201,
     "comment": ""
   },
@@ -2395,7 +2395,7 @@
     "grade": "1年",
     "date": "2026-08-03",
     "period": 1,
-    "courses": "フランス語　追再試",
+    "courses": "フランス語　再試",
     "room": 102,
     "comment": ""
   },
@@ -7516,14 +7516,6 @@
     "date": "2026-07-30",
     "period": 2,
     "courses": "精神看護援助論　追再試",
-    "room": 303,
-    "comment": ""
-  },
-  {
-    "grade": "3年",
-    "date": "2026-07-30",
-    "period": 3,
-    "courses": "老年看護援助論　追再試",
     "room": 303,
     "comment": ""
   },
