@@ -196,12 +196,21 @@
 
       let row = document.createElement("tr");
 
-      // 月初の曜日（月=0, 火=1, ..., 金=4 に変換）
-      const firstDow = (firstDay.getDay() + 6) % 7; // 0=月,1=火,...,6=日
-      const startPad = Math.min(firstDow, 5); // 土日は0
-      for (let i = 0; i < startPad; i++) {
-        row.appendChild(document.createElement("td"));
-      }
+// Add R8.6.30
+// 月初の空白セルを追加
+// 表示は月〜金のみ。土日始まりの月は空白なしで開始する。
+	const jsDow = firstDay.getDay(); // 0=日, 1=月, ..., 6=土
+
+	let startPad;
+	if (jsDow === 0 || jsDow === 6) {
+ 		 startPad = 0;
+	} else {
+  	startPad = jsDow - 1; // 月=0, 火=1, 水=2, 木=3, 金=4
+	}
+
+	for (let i = 0; i < startPad; i++) {
+		row.appendChild(document.createElement("td"));
+	}
 
       for (let date = 1; date <= lastDate; date++) {
         const dow = new Date(year, month, date).getDay();
@@ -260,24 +269,34 @@
         }
       }
 
-      // 最後の行が未追加なら追加
-      if (row.children.length > 0) {
-        tbody.appendChild(row);
-      }
+// Add R8.6.30
+// 最後の行が未追加なら、空白セルで5列にそろえて追加
+	if (row.children.length > 0) {
+  		while (row.children.length < 5) {
+    			row.appendChild(document.createElement("td"));
+  		}
+  		tbody.appendChild(row);
+	}
     }
 
-    // 月切り替え
-    function prevMonth() {
-      currentDate.setMonth(currentDate.getMonth() - 1);
-      render();
-    }
+// Add R8.6.30
+// 月切り替え
+	function prevMonth() {
+  		currentDate.setDate(1);
+  		currentDate.setMonth(currentDate.getMonth() - 1);
+  	render();
+	}
 
-    function nextMonth() {
-      currentDate.setMonth(currentDate.getMonth() + 1);
-      render();
-    }
-  </script>
+	function nextMonth() {
+  		currentDate.setDate(1);
+  		currentDate.setMonth(currentDate.getMonth() + 1);
+  	render();
+	}
+
+</script>
 
 </body>
+
+</html>
 
 </html>
