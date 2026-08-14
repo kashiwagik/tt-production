@@ -17370,6 +17370,14 @@
   {
     "grade": "M1",
     "date": "2026-08-18",
+    "period": 1,
+    "courses": "生理学特論（森岡先生）",
+    "room": "JIHS",
+    "comment": ""
+  },
+  {
+    "grade": "M1",
+    "date": "2026-08-18",
     "period": 4,
     "courses": "ﾍﾙｽｱｾｽﾒﾝﾄ特論（原先生）",
     "room": "JIHS",
