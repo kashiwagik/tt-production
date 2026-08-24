@@ -34796,6 +34796,14 @@
     "date": "2027-03-19",
     "period": 2,
     "courses": "講堂",
+    "room": "卒業式",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2027-03-19",
+    "period": 3,
+    "courses": "講堂",
     "room": "",
     "comment": ""
   },
@@ -35915,6 +35923,14 @@
     "grade": "4年",
     "date": "2027-03-19",
     "period": 1,
+    "courses": "卒業式",
+    "room": "講堂",
+    "comment": ""
+  },
+  {
+    "grade": "4年",
+    "date": "2027-03-19",
+    "period": 2,
     "courses": "卒業式",
     "room": "講堂",
     "comment": ""
@@ -50083,6 +50099,14 @@
     "grade": "助産",
     "date": "2027-03-19",
     "period": 1,
+    "courses": "卒業式",
+    "room": "講堂",
+    "comment": ""
+  },
+  {
+    "grade": "助産",
+    "date": "2027-03-19",
+    "period": 2,
     "courses": "卒業式",
     "room": "講堂",
     "comment": ""
