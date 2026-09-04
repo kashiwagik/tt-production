@@ -34748,7 +34748,23 @@
     "date": "2027-03-16",
     "period": 1,
     "courses": "4年",
-    "room": "",
+    "room": "就職前技術練習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2027-03-16",
+    "period": 2,
+    "courses": "基礎実･母小実",
+    "room": "就職前技術練習",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2027-03-16",
+    "period": 3,
+    "courses": "基礎実･母小実",
+    "room": "卒業式リハーサル",
     "comment": ""
   },
   {
@@ -35902,6 +35918,22 @@
     "courses": "",
     "room": "",
     "comment": "天皇誕生日"
+  },
+  {
+    "grade": "4年",
+    "date": "2027-03-16",
+    "period": 1,
+    "courses": "就職前技術練習",
+    "room": "基礎実･母小実",
+    "comment": ""
+  },
+  {
+    "grade": "4年",
+    "date": "2027-03-16",
+    "period": 2,
+    "courses": "就職前技術練習",
+    "room": "基礎実･母小実",
+    "comment": ""
   },
   {
     "grade": "4年",
@@ -50077,6 +50109,22 @@
     "period": 2,
     "courses": "総合学習",
     "room": "研修6･7",
+    "comment": ""
+  },
+  {
+    "grade": "助産",
+    "date": "2027-03-16",
+    "period": 1,
+    "courses": "就職前技術練習",
+    "room": "基礎実･母小実",
+    "comment": ""
+  },
+  {
+    "grade": "助産",
+    "date": "2027-03-16",
+    "period": 2,
+    "courses": "就職前技術練習",
+    "room": "基礎実･母小実",
     "comment": ""
   },
   {
