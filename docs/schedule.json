@@ -25145,14 +25145,6 @@
   },
   {
     "grade": "1年",
-    "date": "2026-10-19",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2026-10-20",
     "period": 1,
     "courses": "日本人論",
@@ -25309,14 +25301,6 @@
     "period": 4,
     "courses": "英語Ⅱ",
     "room": "AC：101　BD：103",
-    "comment": ""
-  },
-  {
-    "grade": "1年",
-    "date": "2026-10-26",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
     "comment": ""
   },
   {
@@ -25489,14 +25473,6 @@
   },
   {
     "grade": "1年",
-    "date": "2026-11-02",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2026-11-04",
     "period": 1,
     "courses": "微生物と人間",
@@ -25641,14 +25617,6 @@
   },
   {
     "grade": "1年",
-    "date": "2026-11-09",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2026-11-10",
     "period": 1,
     "courses": "日本人論",
@@ -25683,8 +25651,8 @@
     "grade": "1年",
     "date": "2026-11-10",
     "period": 5,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
@@ -25851,8 +25819,8 @@
     "grade": "1年",
     "date": "2026-11-17",
     "period": 5,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
@@ -26003,8 +25971,8 @@
     "grade": "1年",
     "date": "2026-11-24",
     "period": 5,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
@@ -26379,8 +26347,8 @@
     "grade": "1年",
     "date": "2026-12-08",
     "period": 5,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
@@ -26505,14 +26473,6 @@
   },
   {
     "grade": "1年",
-    "date": "2026-12-14",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2026-12-15",
     "period": 1,
     "courses": "生活援助論Ⅱ\n(ABCD)",
@@ -26539,16 +26499,16 @@
     "grade": "1年",
     "date": "2026-12-15",
     "period": 4,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
     "grade": "1年",
     "date": "2026-12-15",
     "period": 5,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
@@ -26649,14 +26609,6 @@
   },
   {
     "grade": "1年",
-    "date": "2026-12-21",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2026-12-22",
     "period": 2,
     "courses": "人間関係論",
@@ -26692,7 +26644,7 @@
     "date": "2026-12-23",
     "period": 1,
     "courses": "知の探求",
-    "room": 101,
+    "room": "101・１０２・１０３",
     "comment": ""
   },
   {
@@ -26897,14 +26849,6 @@
   },
   {
     "grade": "1年",
-    "date": "2027-01-18",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2027-01-19",
     "period": 1,
     "courses": "解剖体見学実習AB",
@@ -27017,14 +26961,6 @@
   },
   {
     "grade": "1年",
-    "date": "2027-01-25",
-    "period": 5,
-    "courses": "国語表現法",
-    "room": 101,
-    "comment": ""
-  },
-  {
-    "grade": "1年",
     "date": "2027-01-26",
     "period": 1,
     "courses": "疾病・病態論Ⅰ",
@@ -27051,16 +26987,16 @@
     "grade": "1年",
     "date": "2027-01-26",
     "period": 4,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
     "grade": "1年",
     "date": "2027-01-26",
     "period": 5,
-    "courses": "(教務係押さえ：国語表現法移動先)",
-    "room": "",
+    "courses": "国語表現法",
+    "room": 101,
     "comment": ""
   },
   {
