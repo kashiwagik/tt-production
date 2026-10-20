@@ -33411,7 +33411,7 @@
     "grade": "4年・助産",
     "date": "2026-12-03",
     "period": 4,
-    "courses": 301,
+    "courses": "大講義室",
     "room": "看護情報学",
     "comment": ""
   },
@@ -33419,7 +33419,7 @@
     "grade": "4年・助産",
     "date": "2026-12-03",
     "period": 5,
-    "courses": 301,
+    "courses": "大講義室",
     "room": "",
     "comment": ""
   },
@@ -35340,7 +35340,7 @@
     "date": "2026-12-03",
     "period": 3,
     "courses": "政策医療看護論Ⅱ",
-    "room": 301,
+    "room": "大講義室",
     "comment": ""
   },
   {
@@ -35348,7 +35348,7 @@
     "date": "2026-12-03",
     "period": 4,
     "courses": "看護情報学",
-    "room": 301,
+    "room": "大講義室",
     "comment": ""
   },
   {
