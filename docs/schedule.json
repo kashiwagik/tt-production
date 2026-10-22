@@ -33660,7 +33660,7 @@
     "date": "2026-12-14",
     "period": 1,
     "courses": "4年",
-    "room": "総合学習",
+    "room": "看護情報学",
     "comment": ""
   },
   {
@@ -33676,22 +33676,22 @@
     "date": "2026-12-14",
     "period": 3,
     "courses": "大講義室",
-    "room": "看護情報学",
+    "room": "総合学習",
     "comment": ""
   },
   {
     "grade": "4年・助産",
     "date": "2026-12-14",
     "period": 4,
-    "courses": 301,
-    "room": "政策医療看護論Ⅱ",
+    "courses": "大講義室",
+    "room": "総合学習",
     "comment": ""
   },
   {
     "grade": "4年・助産",
     "date": "2026-12-14",
     "period": 5,
-    "courses": 301,
+    "courses": "大講義室",
     "room": "",
     "comment": ""
   },
@@ -33819,6 +33819,14 @@
     "grade": "4年・助産",
     "date": "2026-12-18",
     "period": 4,
+    "courses": 301,
+    "room": "政策医療看護論Ⅱ\n（来生先生)",
+    "comment": ""
+  },
+  {
+    "grade": "4年・助産",
+    "date": "2026-12-18",
+    "period": 5,
     "courses": 301,
     "room": "",
     "comment": ""
@@ -35507,7 +35515,7 @@
     "grade": "4年",
     "date": "2026-12-14",
     "period": 1,
-    "courses": "総合学習",
+    "courses": "看護情報学",
     "room": "大講義室",
     "comment": ""
   },
@@ -35523,16 +35531,16 @@
     "grade": "4年",
     "date": "2026-12-14",
     "period": 3,
-    "courses": "看護情報学",
-    "room": 301,
+    "courses": "総合学習",
+    "room": "大講義室",
     "comment": ""
   },
   {
     "grade": "4年",
     "date": "2026-12-14",
     "period": 4,
-    "courses": "政策医療看護論Ⅱ",
-    "room": 301,
+    "courses": "総合学習",
+    "room": "大講義室",
     "comment": ""
   },
   {
@@ -35628,6 +35636,14 @@
     "date": "2026-12-18",
     "period": 3,
     "courses": "政策医療看護論Ⅱ\n(矢富先生)",
+    "room": 301,
+    "comment": ""
+  },
+  {
+    "grade": "4年",
+    "date": "2026-12-18",
+    "period": 4,
+    "courses": "政策医療看護論Ⅱ\n（来生先生)",
     "room": 301,
     "comment": ""
   },
@@ -49787,7 +49803,7 @@
     "grade": "助産",
     "date": "2026-12-14",
     "period": 1,
-    "courses": "総合学習",
+    "courses": "看護情報学",
     "room": "大講義室",
     "comment": ""
   },
@@ -49803,16 +49819,16 @@
     "grade": "助産",
     "date": "2026-12-14",
     "period": 3,
-    "courses": "看護情報学",
-    "room": 301,
+    "courses": "総合学習",
+    "room": "大講義室",
     "comment": ""
   },
   {
     "grade": "助産",
     "date": "2026-12-14",
     "period": 4,
-    "courses": "政策医療看護論Ⅱ",
-    "room": 301,
+    "courses": "総合学習",
+    "room": "大講義室",
     "comment": ""
   },
   {
